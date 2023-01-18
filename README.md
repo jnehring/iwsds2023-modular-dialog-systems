@@ -1,13 +1,15 @@
-# Module Selection: A New Task and a New Benchmark Dataset for DialogSystems
+# Module Selection: A new task for Dialog Systems
 
 ## Introduction
-Dialog systems often comprise Natural Language Understanding and a rule-based dialog manager, an architecture we call Intent-Based Dialog System. In practical applications, dialog systems often combine multiple Intent-Based Dialog Systems. Although this combination is not trivial, this topic has, to our best knowledge, not been addressed by researchers yet. Therefore we introduce a new task Module Selection, which is the problem of selecting the correct sub-dialog system for a given user utterance. Further, we provide a dataset to evaluate models for Module Selection. We propose three models for Module Selection and evaluate them using the proposed dataset and evaluation methodology. The models serve as a strong baseline for future research in Module Selection.
+
+Many different dialog systems exist, which usually cover limited domains. This paper examines the Modular Dialog System Framework to combine many conversational agents to create a unified, diverse dialog system. The Modular Dialog System treats the underlying conversational agents as black boxes and works with any dialog system without further adaption. It also works with commercial frameworks, such as Google Dialogflow or IBM Watson Assistant, in which the inner workings are unknown company secrets. We propose a new task, Module Selection, choosing a conversational agent for a user utterance. Also, we propose an evaluation methodology for Modular Dialog Systems. Using the three available commercial frameworks, Google Dialogflow, Rasa, and IBM Watson Assistant, we create a dataset and propose three models that serve as a strong baseline for future research in Module Selection. Also, we examine the performance difference between a Modular Dialog System and the same dialog system implement in a single, monolithic system. We publish our dataset and source codes as open source.
 
 You can find the dataset we published in the final_data folder in this repository.
 
 ## Dataset Creation
 
 ### split_data.py
+
 Read the input file and create the splitted dataset.
 
 to run it:
@@ -58,6 +60,7 @@ python -m rasa.generate_training_data
 ```
 
 ### rasa/README.md
+
 This file have information about how to create rasa chatbot for each split.
 To do that go to each split directory. Then do the followings for each split.
 
