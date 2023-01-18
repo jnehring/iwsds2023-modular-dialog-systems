@@ -1,0 +1,1576 @@
+,id,hwu64_id,utterance,modular_dialogsystem_dataset_homogenous_google_dialogflow_confidence_2_preds,modular_dialogsystem_dataset_homogenous_google_dialogflow_text_2_preds,modular_dialogsystem_dataset_homogenous_google_dialogflow_joined_2_preds
+0,12674,566,Do I have any alarms set for tomorrow?,1,0,0
+1,12678,4885,Review set alarms.,1,0,0
+2,12679,5816,check if any alarm is there after 5am,1,0,0
+3,12682,2683,Please check alarms,1,0,0
+4,12686,2037,When does my alarm go off?,1,0,0
+5,12687,6483,Please see see for me the alarms that you have set Sunday morning.,1,0,0
+6,12691,6472,Tell me when the next alarms are for.,1,0,0
+7,12704,331,Please tell me my alarms,1,0,0
+8,12706,7008,would like to know the alarm you sent,1,0,0
+9,12707,3175,Do I have alarms set ?,1,0,0
+10,12708,4886,Review all alarms.,1,0,0
+11,12710,332,What time will my alarm go off today?,1,0,0
+12,12714,904,My alarms,1,0,0
+13,12715,1882,Checkout today third set alarm.,1,0,0
+14,12716,5330,"OK Google, list all of my upcoming alarms.",1,0,0
+15,12718,5249,Please list all my alarms,1,0,0
+16,12719,3469,do I have any alarms set for 6 am tomorrow?,1,0,0
+17,12720,1738,Check whether I have set any alarms for tomorrow morning,1,0,0
+18,12725,4616,Remind me about my alarms today.,1,0,0
+19,12726,1776,What times do my alarms go off?,1,0,0
+20,12732,3455,What time is my wakeup alarm set for?,1,0,0
+21,12734,4087,What alarms are set for this week Echo.,1,0,0
+22,12736,4618,Let me know about any alarms set today.,1,0,0
+23,12739,509,confirm the alarm time,1,0,0
+24,12744,3126,How many alarms have I set?,1,0,0
+25,12745,666,can you tell me what alarms i have set,1,0,0
+26,12749,6376,Please let me know the morning alarm time kept for Weekends,1,0,0
+27,12756,4977,do i have an alarm set for today,1,0,0
+28,12758,6558,"Tap the System tab. Tap Clock, and then select the Alarms tab. Tap and select the day you want the alarm to sound. Double tap the time displayed on the extreme left to set a time for the alarm,",1,0,0
+29,12759,3265,Is there an alarm for 10am?,1,0,0
+30,12763,6650,Give me the alarm times for the next two days.,1,0,0
+31,12767,5149,Show me the alarms I've set.,1,0,0
+32,12768,1354,PDA is my alarm set for tomorrow morning?,1,0,0
+33,12776,5511,remove my 8 pm alarm and set it to 7 pm,1,0,0
+34,12779,5286,Cancel my alarm for tomorrow morning.,1,0,0
+35,12780,6568,unset all alarm which is seted,1,0,0
+36,12781,5635,"Echo, remove my bedtime alarm",1,0,0
+37,12786,5287,Do not wake me up tomorrow.,2,1,0
+38,12792,1259,1PM REMOVED 1AM SET,1,0,0
+39,12799,5812,i dont want any alarms,1,0,0
+40,12800,6230,Delete my 8 pm alarm.,1,0,0
+41,12801,1058,Please turn off my alarm for this evening,1,0,0
+42,12814,878,cancel wake-up calls for this week,0,0,0
+43,12818,4335,Please delete the Wednesday evening alarm.,1,0,0
+44,12827,3460,clear my 9 am alarms,1,0,0
+45,12830,987,phones,1,0,0
+46,12838,3296,Cancel alarm,1,0,0
+47,12842,5796,"Siri, cancel yoga alarms",1,0,0
+48,12844,7183,Remove alarm.,1,0,0
+49,12849,5135,Ask them to remember always to lock the door and keep a careful watch on their keys.,1,0,0
+50,12850,8902,remove tomorrow's alarm,1,0,0
+51,12852,5510,Remove my 6 am alarm,1,0,0
+52,12854,1565,Change the alarm weekly settings,1,0,0
+53,12855,570,Get rid of my 8AM alarm,1,0,0
+54,12856,6821,Reset the alarm.,1,0,0
+55,12859,4472,"Olly, get rid of my current alarms.",1,0,0
+56,12861,5811,remove alarm if any,1,0,0
+57,12862,5052,Disable the alarm at xx:xx am/pm,1,0,0
+58,12863,2397,change my alarm,1,0,0
+59,12869,3595,remove alarms set for tomorrow,1,0,0
+60,12870,1929,turn off the alarm,1,0,0
+61,12872,5053,Cancel the alarm at xx:yy am/pm,1,0,0
+62,12873,3894,Take off my alarms,1,0,0
+63,12881,541,Set a wake up call for 10 AM.,1,0,0
+64,12900,10270,set an alert for 2pm,2,1,0
+65,12901,4154,Get me up at 8 AM.,1,0,0
+66,12902,1927,please set alarm at 5 pm,1,0,0
+67,12908,6406,set alarm on 25th may at 5 pm,1,0,0
+68,12913,10269,set an alarm for 2pm,1,0,0
+69,12914,410,set alArm,1,0,0
+70,12918,5724,set my alarm for 12pm,1,0,0
+71,12922,4488,its ok,0,1,1
+72,12926,5690,confirm that the alarm is set for [date : tomorrow],1,0,0
+73,12930,3822,wake me at daybreak,1,0,0
+74,12937,1867,Set alarm of Whole week morning 10 a. m. in april month,1,0,0
+75,12939,4153,I need a 6 AM wakeup call.,2,1,0
+76,12941,6724,Set an alarm for 5 o'clock o'clock this evening labelled taxi,1,0,0
+77,12942,6493,Alarm 5 PM,1,0,0
+78,12946,6139,set alarm for [date : tomorrow] 6 am,1,0,0
+79,12947,10721,PDA name: alarm 5pm tuesday,1,0,0
+80,12967,4035,Create an alarm for 5 pm.,1,0,0
+81,12968,2482,wake up time,1,0,0
+82,12969,1765,Set the time,1,0,0
+83,12970,9961,Remind me two hours before 6pm that I have to wake up at 4 am friday morning,1,0,0
+84,12971,4438,Please set an alarm at 6 am.,1,0,0
+85,12974,770,Could you please lower the tone?,1,1,1
+86,12975,5312,volume down,1,1,1
+87,12982,2232,Decrease volume to very soft,1,1,1
+88,12989,3448,Talk quieter please.,2,1,1
+89,12998,2033,down,2,0,2
+90,13000,6290,"Olly, cut down the volume.",1,1,1
+91,13003,306,quieter,2,0,1
+92,13005,6179,turh the music lower,1,0,0
+93,13007,6046,Can you make it a little quieter?,1,1,1
+94,13008,3202,Lesson the speaker volume,1,1,1
+95,13010,1587,Lower the volume to 20,1,1,1
+96,13011,6768,"Decrease, 20%",1,1,0
+97,13019,5627,Turn the volume down.,1,1,1
+98,13021,1644,decrease the volume to 10,0,1,1
+99,13025,5543,turn down media volume,1,1,1
+100,13026,4218,Slow down the speaker volume,1,1,1
+101,13028,1031,"It's really loud, can you please turn the music down?",1,1,1
+102,13031,768,Could you please lower your volume?,1,1,1
+103,13040,1850,Turn the speakers down to 5%.,1,1,1
+104,13042,3918,pls reducw the sound,1,1,0
+105,13043,4643,Lower volume to half.,1,1,1
+106,13044,2864,Start the radio now on low volume,1,2,1
+107,13054,3487,Please mute the speakers,1,1,1
+108,13066,2907,Please keep quiet for the next hour.,1,1,1
+109,13069,1149,Please pause yourself.,0,1,1
+110,13070,1626,Set mute mode for one hour.,1,1,1
+111,13071,518,Mute for the next hour please.,1,1,1
+112,13081,516,Can you mute when I am not home?,1,1,1
+113,13085,1417,Please pause the song,1,0,0
+114,13096,2773,Mute yourself until 5pm.,2,1,1
+115,13101,4248,mute the music,1,1,1
+116,13107,5545,turn off media volume,1,1,1
+117,13108,1627,Do not make any noise until morning alarm.,1,0,0
+118,13109,6788,quite,0,1,1
+119,13110,3096,Mute sound from speakers.,1,1,1
+120,13111,3942,Mute for 20 minutes.,1,1,1
+121,13113,3129,Stop playing,1,2,2
+122,13117,4553,Mute my speakers for a minute here I need to make a call.,1,1,1
+123,13118,4014,Google please be extra quiet the baby is sleeping.,1,1,0
+124,13122,2258,i dont want sound.,1,1,1
+125,13129,5666,Can you mute my speaker.,1,1,1
+126,13131,288,please be quiet for another hour,1,1,1
+127,13147,2569,down the speaker volume at the end of level,0,1,1
+128,13148,6627,set music system to mute,1,1,1
+129,13155,1123,Where is volume setting,1,1,1
+130,13173,1243,adjust sound,1,1,1
+131,13177,4219,Increase the volume of the speaker,1,1,1
+132,13180,5901,Make sound louder,0,1,1
+133,13185,3955,loudly,2,1,1
+134,13186,6367,Please increase the volume of the current song,1,1,1
+135,13187,3954,Olly speak loudly,1,1,1
+136,13188,5902,Turn up speakers,1,1,1
+137,13190,5130,can you turn up the volume?,1,1,1
+138,13196,3677,Where is the car?,2,1,1
+139,13197,1481,Could you speak louder?,2,1,1
+140,13198,4747,Turn up volume,1,1,1
+141,13200,166,Volume up.,1,1,1
+142,13203,1142,I can't hear you speak up.,0,1,1
+143,13211,2055,I cant hear a thing,1,1,1
+144,13215,5279,"Please turn my speakers on, Google.",1,1,1
+145,13216,2936,Turn up radio volume,1,1,1
+146,13219,1416,Please increase volume,1,1,1
+147,13222,2137,Rise volume,1,1,1
+148,13225,4911,"Olly, please speak up.",1,1,1
+149,13226,1643,Increase the volume to 50,1,1,1
+150,13229,715,I can't hear just increase the volume.,1,1,1
+151,13242,2911,Change my music player volume to 80%,1,1,1
+152,13247,4790,Raise speaker volume,1,1,1
+153,13248,617,Unmute after 30mins,1,1,1
+154,13249,1859,Speak as loud as you can.,2,1,1
+155,13256,5131,Please turn up the speaker volume,1,1,1
+156,13259,6635,"Ok Google, raise your volume",1,1,1
+157,13266,1388,louder,1,1,1
+158,13277,8992,I want more details about the annual tea party.,1,1,2
+159,13278,8634,Are there more than two doctor's appointments in my calendar?,0,1,1
+160,13280,8754,schedule for this weekend,1,1,1
+161,13282,9890,Is there anything on my calendar,1,1,1
+162,13285,9576,What date is it?,1,0,0
+163,13286,10928,PDA please check my reminders,1,1,1
+164,13290,10853,Tell me about all my events.,1,1,1
+165,13293,8641,I want to see each of my pending reminders.,1,1,1
+166,13296,8000,Am I busy on Wednesday evening?,0,1,1
+167,13297,8165,read my next reminders for this afternoon,0,1,1
+168,13302,9204,what does my morning look like tomorrow?,2,0,0
+169,13303,8324,Did I have any plans later on tonight at 8pm?,2,1,1
+170,13304,7908,When is my next meeting,0,1,1
+171,13306,8011,show up the events for me today.,1,1,1
+172,13309,10224,Am I off work on Memorial Day?,0,1,1
+173,13312,8881,How many meetings do i have today from 9 to 5pm?,0,1,1
+174,13315,8335,What's my schedule like today?,1,1,1
+175,13317,8624,What meetings are available in March?,1,1,1
+176,13320,8994,Find out more about the annual tea party.,1,2,0
+177,13325,9603,Which days will I be working nights in the month of March.,0,0,0
+178,13328,10200,Do I have any events scheduled today?,1,2,1
+179,13340,9465,Can you tell me my appointments for this week?,1,1,1
+180,13345,10848,What time does the downtown parade start?,1,1,0
+181,13362,8909,When does the hockey Game start on Friday,1,0,1
+182,13369,9344,15:00 to 17:00 how can I spend my time?,1,0,0
+183,13391,10434,Please delete all calendar events,1,1,1
+184,13395,9751,Take lunch meeting off my calendar.,0,1,1
+185,13401,10442,Please Delete next Meeting Arora's Namkeen owner.,1,1,2
+186,13407,8532,Cancel tomorrow's meeting with Chuck.,0,1,1
+187,13411,10900,remove trip event,1,1,1
+188,13419,9206,Take out event from calendar,1,1,1
+189,13422,9885,Delete all the events from my calendar.,1,1,1
+190,13424,8547,Clear all events for this month.,1,1,1
+191,13425,8034,Can you deleted the current event?,1,1,1
+192,13427,10125,I no longer need to see the doctor can that event be removed,1,2,1
+193,13428,9081,Can to please clear my calendar of all events?,1,1,1
+194,13431,10807,Open calendar and erase all events for all months.,1,1,1
+195,13432,10420,Delete all details of my calendar,1,1,1
+196,13436,12586,Clear my events search data,1,1,1
+197,13440,10479,Please delete next meeting with Rajesh.,1,1,1
+198,13444,8370,Remove the board meeting and reschedule for next Wednesday,1,1,1
+199,13447,10401,Format data from calendar,1,1,0
+200,13453,8771,Can you clear the next event?,1,1,1
+201,13454,8770,Can you delete the next event?,1,1,1
+202,13455,8380,please remove all the entries marked in the calendar,1,1,1
+203,13457,7927,Dismiss my next event,1,1,1
+204,13461,7885,remove chat with Allan,1,1,1
+205,13462,9847,Delete my dinner tomorrow.,1,1,2
+206,13465,8571,Delete all events and content from my calender.,1,1,1
+207,13468,9632,delete appointment at time,1,1,1
+208,13471,9151,remove all the reminders from the calender,1,1,1
+209,13478,8493,Remind me to send email to boss after 1 hour,1,0,0
+210,13481,9985,Set event as meeting notification,1,1,1
+211,13490,8452,remember me my child's birthday,0,1,1
+212,13491,9484,Enter Mary's birthday party with the family on February 22nd.,1,1,1
+213,13493,8516,Remind me to pick up the laundry next Monday,1,1,0
+214,13499,8918,Remind me to pay the electricity bill on this weekend at 9:00 a.m.,1,0,0
+215,13501,9942,Remind me an hour ahead of 4pm that the happy hour for marlows on colonial is from 5-6,0,1,0
+216,13502,9788,I need to set a reminder on the third of every month to call my doctor.,1,1,1
+217,13514,10141,Remind me of the 7:00 AM Sales Meeting this Thursday and add to calendar.,1,1,1
+218,13516,8291,Remind it on Tuesday.,1,1,1
+219,13531,8118,Remind me about tomorrow meeting at 10 AM.,1,1,1
+220,13539,8792,Add meeting with all employees on March 20 at 9 AM,1,1,1
+221,13540,10198,I have dinner with my sister this Saturday,2,1,1
+222,13548,10129,Next week their is a show at the pub can you make a reminder,0,1,2
+223,13553,10072,Schedule an event in my calendar for the pool party at Jack's place this Saturday.,1,1,1
+224,13560,9359,Dorothy needs to talk to me about our divorce. Can you please set up a meeting as soon as I am available?,0,1,1
+225,13563,10574,Notify me of the meeting on tuesday,1,1,1
+226,13564,8844,Remind me about the meeting tomorrow 1 hour before,1,1,1
+227,13568,9943,Please set an event at 10 am one month and two days from now to have a garage sale at my house,1,1,1
+228,13570,9554,will you remind me to go to hockey class every Sunday afternoon?,0,1,1
+229,13571,7974,Olly there's a good band playing tonight at 9 at jazzbar. I want to go,1,2,2
+230,13572,8966,Set this event on repeat on the calendar for the same day of the week this month.,1,1,1
+231,13575,7712,Cooking,1,1,1
+232,13580,11820,What's the best way to cook pasta?,0,1,1
+233,13585,11833,Cook me some oats,0,2,2
+234,13592,11768,whats the recipe for pasta sause,0,1,1
+235,13593,11821,What ingredient can be used to replace white wine,1,1,1
+236,13596,12109,Recipe for crabmeat,0,1,1
+237,13601,12056,What does rice wine go with?,2,1,1
+238,13604,11822,What ingredient can be used instead of saffron,0,1,1
+239,13607,11893,I need  a Puttanesca recipe that pre dates 1970,1,1,1
+240,13611,12015,How many eggs should I put in my cake mix?,1,2,1
+241,13613,11847,show me tutorials on cooking food,1,2,2
+242,13614,12069,"PDA, Give me the recipe for this food.",1,1,1
+243,13617,12152,is fish and chips really British?,1,2,2
+244,13618,12005,What should the internal temperature of a turkey be?,1,0,0
+245,13620,15925,i would like it to be able to find recipes i have,1,1,1
+246,13623,12095,What integrent do I need to cook pasta.,1,1,1
+247,13624,11954,What's an easy recipe to cook for food,1,1,1
+248,13630,11884,Find me the recipe for beef stroganoff.,1,1,1
+249,13631,12077,What's the recipe for...,0,1,1
+250,13632,11945,How long do I need to boil an egg?,1,1,1
+251,13633,11999,olly what do i need for a good burger,1,2,1
+252,13634,11925,PDA: What's the recipe for fried chicken?,1,1,1
+253,13636,15538,Show me recipes,1,1,1
+254,13638,11980,Can you prepare a cheese sandwich?,2,1,1
+255,13642,11852,"PDA, how long does it take water to boil?",0,0,0
+256,13643,11785,I have some ____. How do I prepare this?,2,1,1
+257,13644,11837,Olly what ingrediants do I need to make Lobster Bisque,1,1,1
+258,13648,11983,do you know recipe for risotto,1,1,1
+259,13649,12003,Does shrimp contain a lot of fat?,2,1,1
+260,13651,11877,PDA how do you cook Black Eye Pea?,0,1,1
+261,13653,11918,Help me make brownies.,0,2,1
+262,13660,12050,I need to know how to make stuffed peppers,1,1,1
+263,13669,11858,how to make sausage PDA.,1,1,1
+264,13674,16162,Please give me the best garlic bread recipe.,1,1,1
+265,13678,12037,How long do I chill an icebox pie?,2,1,1
+266,13679,1358,Your recipe of steak was superb,0,1,1
+267,13690,4576,Convert current time from GMT to EST,1,0,0
+268,13691,4577,Convert current time from IST to EST,1,0,0
+269,13703,2706,06:00,1,0,0
+270,13704,6481,Change the time zone from irish time zone to moscow time zone,1,0,0
+271,13708,1922,convert 10:30 from GMT +2:30 to GMT 0:00,1,0,0
+272,13709,6957,Convert eastern time to western time.,1,0,0
+273,13714,6480,Set the time zone to gmt,1,0,0
+274,13717,6347,convert 1:02 from GTM 4:30 to GMT 1:30,1,0,0
+275,13725,1356,"If it's 5 am in Berlin, what time is it here?",1,0,0
+276,13726,6329,what is the time difference between here and there?,1,0,0
+277,13727,6328,how much later is new york than L.A.?,1,0,0
+278,13728,1315,What is the time at Singapore when or time is 5 pm,1,0,0
+279,13731,5917,8 AM Manila time is what in Eastern time?,1,0,0
+280,13746,4696,change mountain standard to pacific,1,0,0
+281,13747,1267,"If it's ten pm in California, what time is it in Alabama?",1,0,0
+282,13750,6983,If it is 6AM here what time is it in Tokyo?,1,0,0
+283,13751,6009,What is the time difference between India and Ivory Coast?,1,0,0
+284,13752,3703,"PDA, what time will it be locally at 9AM Bangalore, India, time?",1,0,0
+285,13757,3814,"When it is 9:00 in the East, what time is it in the West?",1,0,0
+286,13758,3888,pls change timezone to india,1,0,0
+287,13759,3887,pls change timezone to canada,1,0,0
+288,13771,6095,Time difference between UK and US,1,0,0
+289,13773,378,"If it is noon in Virginia, what time is it in California?",1,0,0
+290,13775,5680,"If i was in the eastern time zone, what time would it be",1,0,0
+291,13776,379,What is the time difference between Eastern time and Pacific time?,1,0,0
+292,13777,2745,What time is it in Florida?,1,0,0
+293,13779,6514,display date,1,0,0
+294,13783,6795,Is 21st of the week is Saturday?,2,0,0
+295,13785,6663,What day o the week is 12th,1,0,0
+296,13786,3396,What time is it in Central Standard Time?,1,0,0
+297,13787,1363,Does it fall a sunday on 5th december?,2,0,0
+298,13789,6742,what hour now,0,0,0
+299,13792,6057,Is it 20th March today?,1,0,1
+300,13793,2742,Current time please.,1,0,0
+301,13797,5065,What day it is on 22nd April?,1,0,0
+302,13803,2118,Greeting of the day and PDA states date after greeting,1,1,0
+303,13808,6695,current time in CPT,1,0,0
+304,13812,481,what time is it in the east,1,0,0
+305,13814,111,thats the date,1,0,0
+306,13816,692,can you tell me what date it is,1,0,0
+307,13818,2664,may i know the time in london,1,0,0
+308,13820,6664,what is the day on 23rd march,1,0,1
+309,13825,4666,hey siri tell me what time it is,1,0,0
+310,13831,1070,What time is it in London right now?,1,0,0
+311,13835,18306,What time zone is X in?,1,0,0
+312,13836,4524,can you tell me the time in new york,1,0,0
+313,13837,931,Tell me what time it is right now,1,0,0
+314,13842,966,please tell me what time it is,1,0,0
+315,13843,4873,What's the time in Dubai?,1,0,0
+316,13846,4848,"PDA, tell me the time in Tokyo.",1,0,0
+317,13852,5056,"What time is it, relative to New York?",1,0,0
+318,13855,1437,What day is Easter?,1,0,0
+319,13861,4112,What is the time in Zimbabwe right now,1,0,0
+320,13865,4981,Give me the local time of London,1,0,0
+321,13873,4410,Announce the current time,1,0,0
+322,13879,19932,email XXXXX@gmail.com add to email contacts,1,0,0
+323,13883,20746,alexa add sam@gmail.com to my contacts list,1,0,0
+324,13884,19940,use that email address as a contact,1,0,0
+325,13891,20183,Add dan@dan.com to my contacts,1,0,0
+326,13894,20627,Save email id,1,0,0
+327,13896,19657,add email,1,0,0
+328,13898,20036,Make a new contact with this email.,1,0,0
+329,13903,20685,Add this email to my contact,1,0,0
+330,13906,19930,add new email to my contacts. XXXXX@gmail.com,1,0,0
+331,13908,19575,remember this email,1,0,0
+332,13909,19261,add new email to contacts,1,0,0
+333,13915,19576,Here's an email address,1,0,0
+334,13920,20218,Locate the email to Giant Eagle and put it into my contact list.,1,0,0
+335,13923,19097,olly add new email to Anna,1,0,0
+336,13930,19367,add this new email with contact,1,0,0
+337,13931,19366,save this email in contact,1,0,0
+338,13933,20436,I would like you to add an email to my contacts.,1,0,0
+339,13935,19171,change my mum's email in my phonebook,1,0,0
+340,13941,19358,Add Dr. rosenstock as an email contact,1,0,0
+341,13943,19781,add new email address,1,0,0
+342,13947,20489,I want to and my email address.,1,0,0
+343,13949,20815,add contacts n mail,1,0,0
+344,13964,20366,Add apahelp@yahoo.com to my contacts.,1,0,0
+345,13965,20816,save my contacts,1,0,0
+346,13967,19135,Any new emails?,1,0,0
+347,13969,19555,Check mail.from jack,1,0,0
+348,13972,20011,Pull up all outgoing emails from yesterday.,1,0,0
+349,13973,19731,Tell me who send the email about the boss yesterday,1,0,0
+350,13975,19418,pda email,1,0,0
+351,13976,19733,What is the subject of the email that just arrived,1,0,0
+352,13980,20844,Do I have emails,1,0,0
+353,13981,20720,Check for me new emails recieved from Peter,1,0,0
+354,13983,20304,Have I received any email from Ron in last couple of days?,1,0,0
+355,13987,20073,Google find the new email address for Bill that I added Friday.,1,0,0
+356,13989,19879,"Open email, check messages",1,0,0
+357,13991,19618,what is the emai i got from my girlfriend.,2,0,1
+358,13996,20597,what is the email from tony about?,2,0,0
+359,14001,19515,yes I want to check,1,1,1
+360,14004,20602,Is there any email from my contacts,1,0,0
+361,14014,19553,list the received emails recently in alphabetical order,1,0,0
+362,14015,20281,did Mike send me an email,1,0,0
+363,14018,19639,do i have an email from person A.,1,0,0
+364,14019,19700,Has Robert sent any new emails to me?,1,0,0
+365,14021,19234,please check if there is a new email on the inbox,1,0,0
+366,14036,19714,Initiate polling for new email,1,0,0
+367,14043,20558,Search my emails with subject including work hours,1,0,0
+368,14045,20335,check gmail for last hour,1,0,0
+369,14048,19195,title of content,1,1,0
+370,14049,19821,How many new emails since I last checked?,1,0,0
+371,14051,19969,"PDA, report what is new in my email inbox.",1,0,0
+372,14054,20682,Read me new emails,1,0,0
+373,14055,19299,Check to see if new emails have come from Title 9,1,0,0
+374,14062,19285,list new emails,1,0,0
+375,14067,20386,Open Derek's contact information,1,0,0
+376,14070,19926,Do I have any missed call from Patrick,1,1,1
+377,14078,20392,Find my wife.,1,1,1
+378,14085,19240,Fetch me the phone number of  Alexander.,1,0,0
+379,14087,20441,where is hallway?,1,0,0
+380,14090,19622,can you pull up jeff,1,0,1
+381,14091,19125,What's his number?,1,0,0
+382,14103,20727,What's Leon's email?,2,0,0
+383,14106,19228,open the profile of Allen from my contact,1,0,0
+384,14109,19734,Can I find out information about a contact?,1,0,0
+385,14112,20233,how many contacts do I have in my phone book?,1,0,0
+386,14117,20245,Is Bills cell phone number in my contacts?,1,0,0
+387,14119,20155,Get me Tom's number,1,0,0
+388,14120,20574,Please find a mail address of Manoj and tell me.,1,0,0
+389,14122,19405,What's June's address nowadays?,1,0,0
+390,14123,19023,What is Jimmy Johns's corporate number?,1,0,0
+391,14127,20085,Who is the contact that last called me.,1,0,0
+392,14128,20517,show mobile number of john,1,0,0
+393,14134,19678,Is it Joes birthday soon,0,1,1
+394,14136,20034,Olly what's John's home phone number?,1,0,0
+395,14145,19710,What is Sarah's number?,1,0,0
+396,14149,20230,find john smith from Alabama,1,0,0
+397,14150,19654,Tell me about Mary S,2,0,0
+398,14154,19648,How old is Mary S?,2,0,0
+399,14156,20736,Rahul contact,1,0,0
+400,14158,19510,What is Jill's home phone number?,1,0,0
+401,14160,19726,Check in contacts,1,0,0
+402,14161,19662,is it anyone I knows birthday this month?,1,1,1
+403,14165,19727,Apply search and check,1,0,0
+404,14168,19837,I need to send an email to Bob,1,0,0
+405,14169,20345,"Compose a new email, but I got a new address this time, brandon at example dot com",1,0,0
+406,14171,19183,go to ne mail compile,1,0,0
+407,14174,19597,Send email to family and tell them graduation is scheduled for 6PM on Saturday and accept or decline the calendar invite,1,0,0
+408,14175,19212,send email to current email address,1,0,0
+409,14176,20706,Send a sorry for your loss email to Pat.,1,0,0
+410,14180,19511,Reply to all emails received between 10pm and 7am everyday,2,0,0
+411,14181,20544,Compose email to my mom...,1,0,0
+412,14184,19543,add this new email to my contacts,1,0,0
+413,14188,19215,forward shown content to (  ) with email,1,0,0
+414,14189,20601,Open email and send it to,1,0,0
+415,14195,20440,reach by mail to my family.,1,0,0
+416,14197,20775,Enter new address in email form.,1,0,0
+417,14202,20482,Send an email to my family telling them about my upcoming birthday plans,1,0,0
+418,14203,20241,Could you please email John saying I'm on Leave,1,0,0
+419,14206,20402,"PDA, Can you send the email to the new email id?",1,0,0
+420,14211,20148,Send an email to Joe that says I'm already here,1,0,0
+421,14213,20005,I want to reply,1,0,0
+422,14216,19180,go to contacts and add a new email to the list,1,2,2
+423,14217,19862,Send the email to John.,1,0,0
+424,14218,20195,send email to joejoe@gmail.com,1,0,0
+425,14225,20811,Reply to Anthony's email,1,0,0
+426,14243,20828,Repeat the e-mail for my brother.,1,0,0
+427,14244,20081,send an email in response to this,1,0,0
+428,14251,20121,shoot an email to chris about work tomorrow,1,0,0
+429,14256,19682,send an email to fred from work he is in my contacts,1,0,0
+430,14259,19523,Send help only to Jane,1,1,0
+431,14263,19619,Please send email to Liz,1,0,0
+432,14271,23101,yes answer was amazing.,1,1,1
+433,14272,23286,exactly.,2,1,1
+434,14274,22919,got the answer perfectly.,1,1,1
+435,14276,23309,you have done command correcly.,0,1,1
+436,14278,23123,yes perfectly.,0,1,1
+437,14279,23246,you've gotten answer correcly.,0,1,1
+438,14280,23256,answer was confirmed.,0,1,1
+439,14286,23087,you have done command exactly.,0,1,1
+440,14287,23041,yeah you've done your understanding exactly.,0,1,1
+441,14295,22850,wonderful response.,1,1,1
+442,14297,23038,you have understood my instructions perfectly.,0,1,1
+443,14299,23090,that's great.,0,1,1
+444,14307,23293,yeah you did the command correcly.,0,1,1
+445,14313,23248,got it perfectly.,1,1,1
+446,14321,23311,yes you have done that perfectly.,0,1,1
+447,14324,23300,yeap that is wonderful.,1,1,1
+448,14330,23254,got the answer exactly.,0,1,1
+449,14332,23233,yeap your understanding was confirmed.,1,1,1
+450,14336,23088,yes right.,1,1,1
+451,14338,23314,yeah it was confirmed.,0,1,1
+452,14339,23363,yeah you have got my instructions perfectly.,1,1,1
+453,14350,22900,yeap that was confirmed.,0,1,1
+454,14351,23131,yeah perfect response.,0,1,1
+455,14355,22966,yeah you understood your understanding correcly.,0,1,1
+456,14359,23069,yeah you have understood my instructions perfectly.,1,1,1
+457,14361,23040,yes you get it exactly.,1,1,1
+458,14364,23245,yes perfect response.,0,1,1
+459,14366,23541,please can you cancel it.,1,1,1
+460,14375,23633,could you please shut up.,1,1,1
+461,14380,23675,olly please would you shut down.,1,1,1
+462,14381,23618,shut up please.,1,1,1
+463,14385,23504,olly just cancel.,1,1,1
+464,14387,23563,"that's all, cancel.",1,1,1
+465,14390,23405,olly i will talk to you later on.,1,1,1
+466,14394,23652,"that is all, stop it.",1,1,1
+467,14399,23621,can you shut off.,1,1,1
+468,14404,23515,"that's all, just cancel.",1,1,1
+469,14408,23542,would you please shut down.,1,1,1
+470,14411,23564,olly can you stop it.,0,1,1
+471,14418,23608,olly that will be all.,1,1,1
+472,14420,23558,olly could you shut down.,1,1,1
+473,14421,23543,please can you stop.,1,1,1
+474,14423,23494,will you please shut up.,1,1,1
+475,14424,23389,i will talk to you later.,0,1,1
+476,14425,23486,olly can you please shut down.,1,1,1
+477,14431,23634,i will talk to you later on.,0,1,1
+478,14434,23639,olly please can you shut up.,1,1,1
+479,14441,23503,"that's all, just stop it.",1,1,1
+480,14443,23479,shut off please.,1,1,1
+481,14450,23682,will you cancel it please.,1,1,1
+482,14452,23662,olly will you stop.,1,1,1
+483,14455,23472,olly i like you cancel it.,1,1,1
+484,14462,23623,just stop please.,1,1,1
+485,14466,23768,could you please check the last thing said.,1,1,1
+486,14477,23884,please check last thing i said.,1,1,1
+487,14478,24186,can you check and confirm it.,1,1,1
+488,14481,24039,would you check and confirm details please.,1,1,1
+489,14485,23751,would you confirm the detail please.,0,1,1
+490,14488,23798,would you check detail.,1,1,1
+491,14492,23717,check and confirm the last thing said please.,1,1,1
+492,14501,23971,did you get the instruction correctly?,1,1,1
+493,14504,24223,confirm detail please.,0,1,1
+494,14508,23871,please will you check that.,1,1,1
+495,14510,24016,can you check last thing said please.,1,1,1
+496,14511,23770,i like you to confirm detail please.,0,1,1
+497,14513,24054,i'd like you to check details please.,1,1,1
+498,14519,24034,check and confirm details please.,1,1,1
+499,14523,23889,i would like you check details please.,1,1,1
+500,14528,23711,please check and confirm it.,1,1,1
+501,14537,23864,please can you check and confirm the details.,1,1,1
+502,14548,23999,can you please confirm detail.,0,1,1
+503,14553,24113,i like you to check and confirm what i said please.,1,1,1
+504,14554,23995,i like you check question please.,1,1,1
+505,14556,23980,i'd like you check the last thing said please.,1,1,1
+506,14557,23941,can you please confirm the detail.,0,1,1
+507,14558,23969,check last thing i said please.,1,1,1
+508,14561,24070,could you please confirm the instruction.,0,1,1
+509,14567,21893,"don't really mind for whatever, olly.",1,1,1
+510,14568,21865,do not really mind to select any one.,1,1,1
+511,14571,21882,wouldn't care.,0,1,1
+512,14572,21812,whatever would be good.,2,1,1
+513,14579,21933,"would not really mind, olly.",1,1,1
+514,14589,22052,it does not really matter.,0,1,1
+515,14590,22218,it does not matter to me.,1,1,1
+516,14595,21945,any one is good for me.,0,1,1
+517,14598,22086,whatever is okay for me.,2,1,1
+518,14611,21848,have no idea regarding to which to select.,1,1,1
+519,14612,22227,don't mind for any one.,1,1,1
+520,14619,21948,this is unimportant for me.,2,1,1
+521,14624,22018,"don't bother, olly.",1,1,1
+522,14626,22220,"i would not mind, olly.",1,1,1
+523,14637,22033,"i don't really know, olly.",1,1,1
+524,14642,22199,i have no idea regarding to which to choose.,1,1,1
+525,14643,21898,i do not really mind for anything.,1,1,1
+526,14647,21925,i have no idea for which to choose.,1,1,1
+527,14658,21940,"any one is good to me, olly.",1,1,1
+528,14668,24437,i am not clear about that.,0,1,1
+529,14670,24506,please clarify me more on your answers.,1,1,1
+530,14673,24439,rephrase me about what you've said further please.,1,1,1
+531,14674,24663,"s2, don't understand that.",0,1,1
+532,14675,24265,could you clarify me on it further.,1,1,1
+533,14677,24912,please elaborate further on that to me.,0,1,1
+534,14680,24655,i did not understand your words.,0,1,1
+535,14682,24805,please explain again to me.,1,1,1
+536,14685,24702,please explain me on it once again.,1,1,1
+537,14691,24688,your response is not clear.,1,1,1
+538,14692,24889,"s2, i can not quite catch up with you.",1,1,1
+539,14698,24778,"s1, further rephrase me on last sentence please.",0,1,1
+540,14705,24662,"s1, will you please once again clarify me on what you have just said.",1,1,1
+541,14710,24739,"s2, i was not so clear about what you said.",1,1,1
+542,14713,24772,please elaborate that once again.,1,1,1
+543,14714,24292,again clarify me on your answers.,0,1,1
+544,14715,24517,please will you rephrase further on what you have just said to me.,1,1,1
+545,14734,24324,i didn't get your words.,1,1,1
+546,14747,24466,i was unclear about your words.,0,1,1
+547,14748,24619,can you please further explain me about that.,1,1,1
+548,14749,24492,again elaborate your answer.,0,1,1
+549,14751,24529,explain further.,1,1,1
+550,14756,24624,"s1, please once again elaborate me about your answers.",0,1,1
+551,14763,24337,i don't understand your words.,1,1,1
+552,14767,2000,"Hello, what are you up to?",2,1,1
+553,14778,7226,who are you,2,1,1
+554,14779,2149,"Hello Olly, how are you today?",0,1,1
+555,14781,1950,"Good afternoon, how are you?",0,1,1
+556,14783,1163,Good morning,0,1,1
+557,14789,2101,Good evening,0,1,1
+558,14792,890,A joke please,1,1,1
+559,14793,6344,humor me,2,1,1
+560,14794,5550,open some cools jokes,1,1,1
+561,14800,2557,"I wanna laugh,Can you make it happen?",2,1,1
+562,14801,2556,Joke please,1,1,1
+563,14808,551,tell me a dirty joke,1,1,1
+564,14816,5424,i need a good joke,1,1,1
+565,14825,3496,Tell me a joke about lawyers.,1,1,1
+566,14826,5554,Tell me joke.,1,1,1
+567,14828,3373,Say a joke,1,1,1
+568,14831,5651,What is the funniest joke ever?,1,1,1
+569,14832,550,what's the funniest joke,1,1,1
+570,14838,5556,Are you aware this joke.,1,1,1
+571,14842,7011,What's the latest joke?,1,1,1
+572,14843,106,tell me a good joke,1,1,1
+573,14844,1593,Search for new jokes,1,1,1
+574,14847,4750,Have you heard any good jokes lately?,1,1,1
+575,14849,5548,today's jokes,1,1,1
+576,14855,4270,I want to hear a yo mama joke.,1,1,1
+577,14863,7756,joke of the day,1,1,1
+578,14864,4872,Any funny jokes?,1,1,1
+579,14866,5041,"Hey, do you know any jokes?",1,1,1
+580,14873,4194,i want to hear a funny joke,1,1,1
+581,14874,7701,Jokes,1,1,1
+582,14886,889,Give me a joke,1,1,1
+583,14892,21565,"nope, you don't understand what i asked.",0,1,1
+584,14893,21338,i am sorry but i think you made mistakes.,1,1,1
+585,14894,21416,"shit, i think incorrect command.",1,1,1
+586,14895,21099,"no, you did not get the answer correctly.",1,1,1
+587,14896,21596,"nope, you have done it all in wrong manner.",0,1,1
+588,14904,21147,that's not what i am searching for.,0,1,1
+589,14910,21319,"dammit, not right command.",0,1,1
+590,14919,21695,"shit, not correct response.",0,1,1
+591,14927,21107,"hmm, i think you have done the task wrong.",1,1,1
+592,14929,20906,"stop, you didn't instruction the request right.",0,1,1
+593,14935,21052,thanks but i think it's incorrect command.,1,1,1
+594,14938,21738,seems like your answer you have was wrong.,0,1,1
+595,14942,21585,"no, i did not ask for that response.",1,1,1
+596,14961,21222,you don't understand what i was searching for.,0,1,1
+597,14963,21443,"no, that was not what i said.",1,1,1
+598,14971,21696,"nope, i think you made mistake, please correct this.",1,1,1
+599,14973,21481,you had me incorrectly.,0,1,1
+600,14977,21447,"dammit, that's not what i meant.",0,1,1
+601,14979,20892,"uh no, i did not ask for it command.",1,1,1
+602,14980,21392,i think not right.,1,1,1
+603,14989,21342,i asked for something else.,1,1,1
+604,14992,25029,"it's helpful, thank you, olly.",1,1,1
+605,14993,24990,"thanks for reminding me of it, olly.",1,1,1
+606,14994,25043,"great job, you did well.",1,1,1
+607,14997,25508,"it's fantastic job, appreciated.",0,1,1
+608,14999,25090,you have done that right i appreciate it.,1,1,1
+609,15001,25599,"appreciated, that's wonderful job.",0,1,1
+610,15004,25639,"it was cool,.",2,0,1
+611,15005,25216,thank you for that information.,1,1,1
+612,15008,25616,you've done it correctly appreciated.,1,1,1
+613,15012,25416,"that's amazing job, musch appreciated.",1,1,1
+614,15014,25126,"that's amazing, thank you very much, olly.",1,1,1
+615,15021,25231,"you did nice job, thank you.",0,1,1
+616,15025,25420,"you did good work, thanks.",0,1,1
+617,15026,25583,"it's useful, thank you very much.",1,1,1
+618,15031,25091,"you've done that right, olly.",1,1,1
+619,15032,25426,"well done, thank you so much.",1,1,1
+620,15037,25005,"it was wonderful, thank you very much.",0,1,1
+621,15039,25185,"you did great work,.",0,1,1
+622,15041,25325,"well done, thanks, olly.",1,1,1
+623,15045,25174,appreciate the answer.,1,1,1
+624,15055,25225,thank you so much for that information.,0,1,1
+625,15060,25261,"it is perfect work, musch appreciated, olly.",1,1,1
+626,15061,24963,"thank you for your answers, olly.",1,1,1
+627,15068,25223,"you did nice job, musch appreciated.",0,1,1
+628,15070,25259,"you are awesome, i appreciate it, olly.",1,1,1
+629,15079,25157,"it's helpful, musch appreciated.",0,1,1
+630,15082,25704,"ah it's awesome, olly.",1,1,1
+631,15090,16930,JLO fan updates,1,1,1
+632,15092,15855,Define inflation and describe it's effects on an economy.,1,0,0
+633,15100,18321,PDA please check this info on geographics for me,1,0,0
+634,15101,7283,Hello is this your first time here?,1,1,1
+635,15103,31,Check the status of my power usage,1,0,0
+636,15107,16825,Where do I get my pet fixed?,1,1,0
+637,15108,15658,I would like my PDA to update all  breaking news across the world,1,0,0
+638,15114,17228,How do you think the world ends?,2,0,1
+639,15116,7539,Olly I worked today,1,1,1
+640,15121,7353,PDA I got a damn speeding ticket,1,1,1
+641,15122,7381,i took my truck to the shop,1,1,1
+642,15125,18127,"PDA, Tell me how the world began.",2,1,0
+643,15131,7304,I had a great day today.,1,1,1
+644,15133,12883,"Ok, next what?",2,1,1
+645,15136,7215,Whats going on today,1,1,2
+646,15139,17361,"describe me about the new cleaner ,how it works",1,0,0
+647,15144,16935,"Siri, how do make a BLT?",0,1,1
+648,15145,7616,What's your name,2,1,1
+649,15147,7724,what is the history of smart phones,1,0,0
+650,15148,7722,Latest technologies/gadgets,1,1,1
+651,15152,16389,history of person,2,0,0
+652,15154,7441,Are you content with being inside a PDA?,1,2,1
+653,15161,7477,Today I had a meeting with George,1,1,1
+654,15162,16097,why people like to criticize others while seldom self-criticize?,2,1,1
+655,15169,7281,I would like to order a meal do have any special offers for sea food,1,2,2
+656,15173,15548,what time the costco close,1,0,0
+657,15179,16671,Is there a way to bike a hundred miles,1,1,1
+658,15180,995,Encourage the students,2,1,1
+659,15184,16185,"Please tell me how to get to Terre Haute, IN?",0,1,1
+660,15187,7617,How do you feel today,2,1,1
+661,15192,22531,please can you say the last comment one more time.,0,1,1
+662,15204,22659,please can you say the last again.,0,1,1
+663,15214,22492,please tell me it once again.,0,1,1
+664,15219,22479,please retry.,0,1,1
+665,15227,22665,sorry.,2,1,1
+666,15228,22611,tell me it one more time again please.,1,1,1
+667,15237,22280,would you speak one more time please.,1,1,1
+668,15238,22708,let us start over please.,0,1,1
+669,15244,22680,could you say one more time please.,1,1,1
+670,15253,22439,let's start over please.,0,1,1
+671,15261,22564,can you retry.,0,1,1
+672,15262,22449,let us start over.,0,1,1
+673,15263,22717,tell me one more again please.,1,1,1
+674,15277,22356,replay what i've just said please.,1,1,1
+675,15281,22456,please could you tell me again.,0,1,1
+676,15288,22471,will you tell me what i've said one more time please.,1,1,1
+677,15300,3749,Can you activate the vacuum to clean the house?,1,0,0
+678,15302,22,hoover the hallway,1,0,0
+679,15304,265,Vacuum the kitchen,1,0,0
+680,15310,1118,Does the robot vacuum cleaner have to be plugged in?,1,0,0
+681,15315,6352,on the button of cleaner,1,0,0
+682,15318,6091,put on the vacuum on now and clean the living room,1,0,0
+683,15335,3768,Can you start the vacuum?,1,0,0
+684,15337,3750,Can you set the vacuum to start cleaning at x time?,1,0,0
+685,15338,3623,Please start <insert vacuum name>,1,0,0
+686,15340,2132,Start house cleanup,1,1,0
+687,15347,6192,get the roomba to clean the kitchen,1,0,0
+688,15357,884,Turn the robot vacuum cleaner on.,1,0,0
+689,15358,2781,"PDA, how do I start the robot vacuum cleaner?",1,0,0
+690,15365,6090,"I want to clean  my bedroom, put the vacuum on and go to my room",1,0,0
+691,15367,1113,Start the robot vacuum cleaner at 1pm today.,1,0,0
+692,15368,907,"Robot, vacuum the hallway now",1,0,0
+693,15369,1732,Start Roomba.,1,2,0
+694,15372,1734,Can you start the Roomba?,1,0,0
+695,15373,4498,Please start the vacuum.,1,0,0
+696,15374,7178,Turn on the vacuum.,1,0,0
+697,15387,2206,hurrily activates my robot vacuum cleaner.,1,0,0
+698,15392,2529,Olly make me coffee at 8am,1,0,0
+699,15393,4758,I would like a cup of coffee,1,0,0
+700,15399,3114,Brew some coffee,1,0,0
+701,15401,6758,"Olly, Hot and sweet. Soy based.",1,1,1
+702,15410,3108,Can you get me a cup of coffee,1,0,0
+703,15419,1237,"Olly, I'd like an espresso.",1,2,2
+704,15426,3842,Brew me some coffee,1,0,0
+705,15429,3107,I'd like a cup of coffee please,1,0,0
+706,15439,3646,Please make me a cup of coffee,1,0,0
+707,15440,3170,I want the coffee machine to make me coffee.,1,0,0
+708,15445,5138,"Ill take my coffee, black Olly.",1,0,0
+709,15446,2535,I will need my filter coffee in 10 mins. Please ask the coffee maker accordingly.,1,0,0
+710,15447,2989,prepare some cups of coffee for us,1,0,0
+711,15451,3923,Coffee please.,1,0,0
+712,15457,7112,need a hot coffee,1,0,0
+713,15462,7034,"PDA, Coffee",1,0,0
+714,15464,4372,"Olly, brew a pot of coffee.",1,0,0
+715,15465,2235,Start making some coffee,1,0,0
+716,15466,5910,"Olly, can i get a cup of coffee?",1,0,0
+717,15471,1367,I want a coffee,1,0,0
+718,15472,6889,Make a coffee please.,1,0,0
+719,15473,1761,Olly.. Get me a coffee.,1,0,0
+720,15475,4730,"Olly, make me some coffee from the coffee machiine",1,0,0
+721,15477,6985,can u make coffee,1,0,0
+722,15478,14182,olly i need a drink,1,2,1
+723,15481,3131,please make coffee,1,0,0
+724,15484,315,"yo, Olly, I need a coffee now",1,0,0
+725,15490,2230,transition lights to blue to green to yellow,1,0,0
+726,15493,4049,I would like the like in the kitchen to be a different color,1,0,0
+727,15502,4175,I would like orange lights now.,1,0,0
+728,15504,5513,light settings,1,0,0
+729,15506,5853,check for the quality of the colors,1,0,0
+730,15509,2352,change house light from green to red.,1,0,0
+731,15515,3044,I need to change the color of this light.,1,0,0
+732,15517,404,change my room lights so that i can get a good sleep.,1,0,0
+733,15518,5515,change color,1,0,0
+734,15522,6651,"Please, change lights colour to red",1,0,0
+735,15525,3140,Alter the color of the lights at home.,1,0,0
+736,15531,5924,Replace the old light with new powerful light,1,0,0
+737,15535,4639,Please turn the porch light to blue.,1,0,0
+738,15540,3008,I do not like these colours in the house,1,0,0
+739,15541,2404,Adjust light when I get home,1,0,0
+740,15550,1294,Olly make the living room blue,1,0,0
+741,15556,5702,Make the room blue.,1,0,0
+742,15560,4655,hey siri my the lights a little warmer,1,0,0
+743,15575,5925,Purchase a new bulb with more brightness,1,0,0
+744,15576,4308,change the house lights to pink,1,0,0
+745,15581,1033,"PDA, change the color of the lights in my house from white to yellow.",1,0,0
+746,15583,5060,olly change the color of the lights,1,0,0
+747,15591,5213,Please turn down the lights,1,0,0
+748,15593,5726,"Alexa, please turn down the lights to 50 percent in the den.",1,0,0
+749,15597,5725,"Alexa, please turn down the lights in the living room.",1,0,0
+750,15599,6289,can we please lower tge lights,1,0,0
+751,15608,6288,is it ok to lower tge lights,1,0,0
+752,15618,2553,"Alexa, Turn the lights down to 7",1,0,0
+753,15621,2931,Lower the lights in the living room.,1,0,0
+754,15622,5187,Dim the lights to level 2,1,0,0
+755,15623,1086,"It is too bright in here, dim the lights.",1,0,0
+756,15627,684,turn the lights down,1,0,0
+757,15630,140,Lower the lights,1,0,0
+758,15631,6494,darken,1,0,0
+759,15632,898,Lights Dim,1,0,0
+760,15638,1935,May i ask you to dim the lights,1,0,0
+761,15640,3542,lower lights please,1,0,0
+762,15641,2257,light is too much.,1,0,0
+763,15645,897,Dim lights,1,0,0
+764,15646,2561,Reduce the light power,1,0,0
+765,15647,733,please lights less brighter,1,0,0
+766,15651,3601,Dim the lights in my bedroom,1,0,0
+767,15655,6165,Lower the lights in the room,1,0,0
+768,15658,5869,darken the room a bit,1,0,0
+769,15667,2562,Minimize the light power,1,0,0
+770,15675,2554,"Alexa, lights down to 7",1,0,0
+771,15677,1750,lower the light intensity,1,0,0
+772,15681,3541,I want a lower light,1,0,0
+773,15684,6516,Lower the lights in Bedroom 2,1,0,0
+774,15686,3604,"Olly, darker lights please.",1,0,0
+775,15687,3705,Decrease lighting,1,0,0
+776,15689,687,lower the brightness,1,0,0
+777,15695,4818,Turn off the lights now,1,0,0
+778,15698,6575,LIGHTS turn off,1,0,0
+779,15700,3204,turn off smart lamp in den,1,0,0
+780,15703,1615,Turn off living room lights.,1,0,0
+781,15714,3188,Please turn off any lights that are still on.,1,0,0
+782,15722,2542,Put the lights off now.,1,0,0
+783,15725,2857,PDA: Can you turn off the living room lights?,1,0,0
+784,15727,669,Turn off the room lights.,1,0,0
+785,15729,4446,Can you shut everything down?,1,1,1
+786,15730,1679,Turn off the lights in the living room.,1,0,0
+787,15731,345,Switch off the lights,1,0,0
+788,15733,12,Turn off the light in the bathroom,1,0,0
+789,15742,3071,Shut off lights.,1,0,0
+790,15743,6136,Turn off the nearest light to me,1,0,0
+791,15744,2697,Turn off the shed light,1,0,0
+792,15752,6728,No lights,1,0,0
+793,15755,362,Turn off the light in the leaving room.,1,0,0
+794,15757,3274,PDA turn office lights off,1,0,0
+795,15768,2483,Turn off the bathroom light,1,0,0
+796,15769,4767,Can you turn off my desk lamp?,1,0,0
+797,15770,1848,Please turn off only middle-left side light,1,0,0
+798,15775,4548,Turn off overhead light.,1,0,0
+799,15778,2722,Turn off the lights,1,0,0
+800,15792,2812,Lights on!,1,0,0
+801,15795,3117,It's dark in the living room.,1,0,0
+802,15802,4717,Turn on the lights that are outdoors.,1,0,0
+803,15804,6275,"Alexa, please turn on the lights.",1,0,0
+804,15808,1616,Turn on hall lights.,1,0,0
+805,15809,1617,Turn on all upstairs lights.,1,0,0
+806,15811,5791,"Cortana, turn corner light on",1,0,0
+807,15816,258,Light up the lights in the kitchen,1,0,0
+808,15826,7201,I can't see anything,1,0,0
+809,15830,2294,do more light .,1,0,0
+810,15831,1013,"Cortana, increase the brightness of the lights.",1,0,0
+811,15832,1090,Brighten the lights on the front porch,1,0,0
+812,15833,891,Brighten lights,1,0,0
+813,15839,6637,please increase the light of table lamp,1,0,0
+814,15843,3139,Change up the light colors at home.,1,0,0
+815,15846,3958,brighter,1,0,0
+816,15850,239,Olly make the lights brighter,1,0,0
+817,15863,2076,BRIGTEN THE LIGHT AT 70 PERCENT,1,0,0
+818,15866,4774,Turn up the brightness of the lights.,1,0,0
+819,15868,3765,Can you turn the lights up?,1,0,0
+820,15870,1526,Brighten up the room,1,0,0
+821,15871,4293,Please turn the lights up to 8.,1,0,0
+822,15874,1908,brighten the lights,1,0,0
+823,15876,1463,LIGHT KO RAISE KARO.,1,0,0
+824,15877,5676,increase the bright of the light,1,0,0
+825,15878,3111,make this room brighter,1,0,0
+826,15888,6071,Increase brightness in the room,1,0,0
+827,15893,6842,Increase light intensity.,1,0,0
+828,15900,3873,"It's a bit dark, increase lighting",1,0,0
+829,15901,2616,Turn the lights up,1,0,0
+830,15917,1964,More lights please,1,0,0
+831,15922,4155,raise the lights,1,0,0
+832,15928,8576,Turn off WiFi when you leave home to save power,1,0,0
+833,15930,3650,Turn the plug off.,1,0,0
+834,15934,2418,Turn off my wemo plug,1,0,0
+835,15937,3493,Turn off/on the socket!,1,0,0
+836,15940,5372,Can you please turn off the Wemo plug socket?,1,0,0
+837,15942,5336,I would love the wemo socket to not be active right now,1,0,0
+838,15945,3384,Shut off the socket,1,0,0
+839,15949,1055,Turn off my smart plug socket in 30 minutes.,1,0,0
+840,15950,6182,socket off,1,0,0
+841,15955,5154,Turn off bedroom fan,1,0,0
+842,15958,3621,Switch off the wemo plug,1,0,0
+843,15962,6181,turn socket off,1,0,0
+844,15964,371,Turn off the smart plug,1,0,0
+845,15965,294,disable my  okug,1,0,0
+846,15970,703,I want you to turn off the plug socket before the cellphone is charged,1,0,0
+847,15971,4301,PDA turn wemo plug socket off,1,0,0
+848,15980,2837,Will you please turn off the smart plug,1,0,0
+849,15986,4171,Disable smark socket.,1,0,0
+850,15988,5731,Off all type of active devices,0,1,0
+851,15990,1381,off the plug,1,0,0
+852,15994,7180,Turn off/on wemo outlet.,1,0,0
+853,16019,909,Turn off smart socket,1,0,0
+854,16020,5662,Turn off sockets,1,0,0
+855,16023,4572,Please turn off my smart plug socket.,1,0,0
+856,16025,6533,Switch wemo plug socket off,1,0,0
+857,16026,16191,I'd like you to turn turn on the TV.,1,0,0
+858,16029,5759,Turn wemo on,1,0,0
+859,16035,16183,olly start the oven,1,0,0
+860,16041,3334,turn on socket,1,0,0
+861,16044,702,turn on the tv socket when I arrive home,1,0,0
+862,16047,6581,turn on the wemo,1,0,0
+863,16048,2289,Turn my bathroom plug socket on.,1,0,0
+864,16054,6499,Turn on the geyser,1,0,0
+865,16056,4683,turn my plug on,1,0,0
+866,16064,7064,Turn on the light'socket,1,0,0
+867,16068,2765,"PDA, please turn on the smart socket.",1,0,0
+868,16069,7181,Outlet on/off.,2,1,0
+869,16074,6745,You'll be able to turn that device on or off using your smartphone or tablet,1,0,0
+870,16075,1464,Turn on the socket.,1,0,0
+871,16076,6747,You can also add additional switches to your home to control more devices.,1,0,0
+872,16082,5153,Turn on kitchen light,1,0,0
+873,16083,6215,Turn on switch of wemo socket.,1,0,0
+874,16084,1625,make the wemo plug socket turned on.,1,0,0
+875,16091,170,Turn on my plug.,1,0,0
+876,16097,372,Turn the smart plug on,1,0,0
+877,16098,4716,I need to turn on the plug in my office for my computer.,1,0,0
+878,16101,1677,Turn on Wemo.,1,0,0
+879,16102,3495,Stop/Start the juice!,0,2,0
+880,16103,1678,Switch on smart plug.,1,0,0
+881,16110,13306,PUT MILK ON MY SHOPPING LIST,1,2,2
+882,16118,12495,Add broccoli to my grocery list.,1,2,2
+883,16120,13080,Can you add Gloria to my list of clients?,1,2,2
+884,16131,12667,add grocery to list,1,2,2
+885,16133,13134,I need more milk,1,1,2
+886,16138,12979,make a list,1,2,2
+887,16140,12783,Add something to my list.,1,2,2
+888,16141,12905,start new list,1,2,2
+889,16146,12861,Alexa add toothpaste to my shopping list.,1,2,2
+890,16149,12862,Alexa create a new playlist.,1,2,2
+891,16152,12621,Search the item,1,2,2
+892,16156,12458,I need to put together a todo list for work.,1,2,2
+893,16161,13004,open a new list for me,1,2,2
+894,16162,12758,"Olly, I need to create a list of grocery items which are generally required for an outing for two days when you travel out of the city.",1,2,2
+895,16163,12492,Start me a new list.,1,2,2
+896,16175,12416,Creat a list,1,2,2
+897,16176,13286,add oil change to my to do list,1,2,2
+898,16177,13359,Add a meeting with architect to my new project list,1,2,2
+899,16178,12736,Create new list for Brilliant Ideas,1,2,2
+900,16188,12779,Can you please add an item to my grocery list?,1,2,2
+901,16191,13116,add to list,1,2,2
+902,16193,12442,I also need to buy batteries AAA,1,0,0
+903,16195,12536,Create a new grocery list,1,2,2
+904,16196,13077,Start creating a new list,1,2,2
+905,16197,13195,get me with new list.,1,2,2
+906,16204,12666,Put Clean Dog at the top of the Cleaning list,1,2,0
+907,16208,12913,"Olly, what else do I have on the list?",1,2,2
+908,16210,12967,Olly tell me what lists I currently have,1,2,2
+909,16212,13167,"Hey PDA, What are my lists?",1,2,2
+910,16214,12887,"I have my lists, right? What are they?",1,2,2
+911,16217,12646,Tell me what is on the list,1,2,2
+912,16218,12470,Make a list of all the clothing range available on Ralph & Lauren.,1,2,2
+913,16230,12671,Give me a list of lists.,1,2,2
+914,16231,13031,I need to seem my lists.,1,2,2
+915,16233,12803,Read me my list for [list name],1,2,2
+916,16238,12914,"Olly, list me the remainder of things left on the list.",1,2,2
+917,16239,13329,my expenses,2,1,1
+918,16241,13173,Can you tell me what the items on my grocery list are?,1,2,2
+919,16248,12851,what's on the grocery list?,1,2,2
+920,16250,13056,"On the list, tell me the names.",1,2,2
+921,16264,12969,Please tell me what lists I have.,1,2,2
+922,16270,12957,read out the XXX list,1,2,2
+923,16271,12435,Do I have banana in my shopping list,1,2,2
+924,16272,12560,What is my list?,1,2,2
+925,16274,13007,What is on my playlist of movies on the the DVR?,1,2,2
+926,16275,13242,Give me the details on purchase order,1,1,2
+927,16278,12530,Can you read the names of my lists of reminders?,1,2,2
+928,16280,13172,Please read what is on my grocery list.,1,2,2
+929,16281,13030,What are the names of all my saved lists,1,2,2
+930,16287,12693,any sport event is on my list.,1,2,2
+931,16289,13327,i have my clothes list,1,2,2
+932,16302,12534,Evaluate today's schedule,1,1,1
+933,16306,12446,delete the following list:,1,2,2
+934,16309,12573,remove the old music list,1,2,2
+935,16314,13200,Delete a list.,1,2,2
+936,16320,13022,"Eliminate the list KICKBALL, but make sure the contacts remain.",1,2,2
+937,16321,13125,Remove bananas from my shopping list,1,2,2
+938,16323,13132,list remove,1,2,2
+939,16325,12929,Remove my list of contacts from work,1,2,2
+940,16330,13136,I want to remove the grocery list from my other lists.,1,2,2
+941,16331,12411,Take eggs of the list.,1,2,2
+942,16333,13254,Remove the guest list I created last week,1,2,2
+943,16334,13343,please clear the list,1,2,2
+944,16335,12661,lose the last item in the list.,1,2,2
+945,16336,13337,Delete all mails from fgh.com,1,0,0
+946,16340,13151,"Get rid of the list, Google.",1,2,2
+947,16345,13073,on my to-dos remove mop kitchen,1,0,0
+948,16349,12516,find list and remove apple,1,2,2
+949,16354,12888,remove milk from my grocery list,1,2,2
+950,16355,13278,Remove list start with 'A',1,2,2
+951,16357,12523,Remove my car payment on my calendar.,1,1,1
+952,16359,12447,get rid of item on the list,1,2,2
+953,16364,12624,Remove the item from list,1,2,2
+954,16365,12547,Delete the last list.,1,2,2
+955,16368,13202,Remove the Santana music list.,1,2,2
+956,16380,12702,please remove the name starts with A,1,2,2
+957,16384,13237,delete apples from my shopping list,1,2,2
+958,16386,13012,Please delete the last song that played from the playlist.,1,0,2
+959,16393,12432,cross out bread from shopping list,1,2,2
+960,16396,13138,Remove the grocery list from my active lists.,1,2,2
+961,16405,12842,remove [list name],1,2,2
+962,16408,7139,That background song is terrible.,1,0,0
+963,16410,5606,I do not enjoy this song.,1,0,0
+964,16420,999,That song in the background is annoying.,1,0,0
+965,16426,3421,Remember that this song is depressing for me. Please don't play it during the winter days.,1,0,0
+966,16427,3419,I hate this song. Please remember that so that I don't hear this song ever again.,1,0,0
+967,16428,3118,I don't like this song,1,0,0
+968,16429,3339,i hate this song,1,0,0
+969,16434,3722,Remember that this is my favorite music.,1,0,0
+970,16435,5654,"yes, I Like to save opinion on song playing and which player suppoert that song.",1,0,0
+971,16438,357,How about you save this music?,1,0,0
+972,16444,1111,Please save this song to my favorites,1,0,0
+973,16445,128,I like Jazz,1,0,0
+974,16451,5996,Add this song to my music,1,0,0
+975,16455,4416,This song should be on my playlist,1,0,0
+976,16457,5889,Please add this song to my playlist favorites,1,0,0
+977,16460,6832,The music of this song is very melodious and relaxing,1,0,0
+978,16467,4385,Can you save this song to my favorites?,1,0,0
+979,16475,4545,This is a nice song.,1,0,0
+980,16480,1433,I like the songs of Yeshudas please play it.,1,0,0
+981,16490,5825,By keying in the computer in social medias,0,1,1
+982,16492,2951,I want to listen daily to this song,1,0,0
+983,16496,3258,"Alexa, save this song as my favorite.",1,0,0
+984,16505,5947,I like top 20 music.,1,0,2
+985,16506,2650,"Can you save this, 'what a nice song', for me?",1,0,0
+986,16508,5248,This is the best band ever,0,0,0
+987,16509,4081,Olly Kfix is my favorite rapper,1,2,0
+988,16512,2950,This song is my favourite,1,0,0
+989,16514,131,This song was very good!,1,0,0
+990,16515,4770,I like soft rock music,1,0,0
+991,16518,5509,my review,1,0,1
+992,16523,6362,the song touches my heart,1,0,0
+993,16532,483,Who is the singer of song?,1,0,0
+994,16535,2633,Who's the singer?,1,0,0
+995,16537,5234,Please tell me the name of this band,2,0,0
+996,16541,7153,"Olly, give me information on the song that's playing.",1,0,0
+997,16546,2309,check the current playing music title.,1,0,0
+998,16548,6171,whats the name of the current song?,1,0,0
+999,16551,3285,Other songs by this artist,1,0,0
+1000,16554,3316,What CD is this song on?,1,0,0
+1001,16569,4235,olly whats this playing right now,1,2,0
+1002,16571,4282,Who sings the song that I am listening to right now?,1,0,0
+1003,16572,2224,Who is the singer of this song right now,1,0,0
+1004,16591,2310,bring me the title of current music.,1,0,0
+1005,16595,559,email me the lyrics to this song,1,0,0
+1006,16599,2121,Who is the songwriter?,2,0,0
+1007,16602,7140,What is that song playing in the background?,1,0,0
+1008,16613,8486,When and where is <band> playing?,1,0,0
+1009,16614,977,what is the name of this song,1,0,0
+1010,16615,2601,which film the music comes from?what is the name of the music,1,0,0
+1011,16623,4257,What type of music do I enjoy?,1,0,0
+1012,16624,1970,what is the title of the song?,1,0,0
+1013,16628,1838,Who is the artist of the song playing now?,1,0,0
+1014,16629,798,i want to know about this song,1,0,0
+1015,16635,1297,Turn on Spotify shuffle.,1,0,0
+1016,16636,1854,repeat song no 10 from main list,1,0,2
+1017,16639,2670,Put the current song on repeat.,1,0,0
+1018,16640,99,Loop this track.,1,2,0
+1019,16641,2669,Shuffle the current album of songs.,1,0,0
+1020,16646,5755,Please put this playlist on shuffle,1,0,0
+1021,16648,6882,CUT THE SONGS IN THIS MUSICS,1,0,0
+1022,16657,2594,Display volume strength on current track,1,1,0
+1023,16664,2166,equalize the bass of this music.,1,0,0
+1024,16676,3819,Please turn on repeate all,1,1,0
+1025,16682,6716,Album repeat,1,0,0
+1026,16688,6368,Please proceed to the next available rock song,1,2,2
+1027,16696,135,Enable shuffle,1,0,0
+1028,16700,4756,Move to the next song in the list.,1,2,2
+1029,16701,582,repeat same song for 10 times,1,0,0
+1030,16704,979,repeat this song,1,0,0
+1031,16709,3184,Repeat the current song.,1,0,0
+1032,16711,5369,Is there any new information regarding the Mexican-American border wall?,2,0,0
+1033,16715,2709,Show me the latest world news,2,0,0
+1034,16718,9723,"Yesterday at noontime, in Times Square, what was the protest about?",1,1,1
+1035,16724,3657,remind me to check morning news update,1,0,0
+1036,16729,7561,Hot news.,1,0,0
+1037,16734,412,What are the breaking news?,1,0,0
+1038,16738,5167,Can you tell me the top news stories about the White House,2,0,0
+1039,16740,5596,Keep mu up to date on the election news.,1,0,0
+1040,16742,5933,Get me the most recent news,2,0,0
+1041,16747,3365,Are there any news on the weather?,1,0,0
+1042,16749,2614,what is latest news about this world,2,0,0
+1043,16755,4071,what does source have to say about topic,2,0,0
+1044,16756,5964,show todays news about migration,1,0,0
+1045,16758,3696,What is the the Times headline?,1,0,0
+1046,16759,6039,"PDA, What is the latest news today",1,0,0
+1047,16760,7142,What's the latest news from T-mobile?,1,0,0
+1048,16766,5409,find coding tutorials,1,2,2
+1049,16772,5934,What's new today?,1,1,1
+1050,16779,6047,Olly get me the popular news from bbc,1,0,0
+1051,16781,1474,KYA TUM MUJHE CNN NEWS SUNA SAKTE HO?,1,0,0
+1052,16784,4804,What are they saying about Donald Trump on Fox,2,0,0
+1053,16785,5031,What are the latest crime statistics for my area,1,0,0
+1054,16786,1578,Give me updates on the situation in France,1,1,0
+1055,16787,3870,What are the most recent developments on (specific topic)?,2,2,1
+1056,16790,5080,What are the main news stories on the LA Times now,2,0,0
+1057,16791,3362,Did PAOK won Liverpool?,2,0,0
+1058,16796,4141,Echo keep me updated on the lastest storm news.,1,0,0
+1059,16797,6904,Any breaking news from The Huffington Post?,1,0,1
+1060,16811,11507,I want to finish listening to the book 1984 from where I left off.,2,2,2
+1061,16820,11759,Keep playing War and Peace.,1,2,2
+1062,16824,11518,Resume the audiobook I listened to last.,1,2,2
+1063,16826,11620,Play the God of small things,1,2,2
+1064,16829,11596,i would like to continue my audiobook,1,2,2
+1065,16832,11585,audio start,1,1,1
+1066,16833,11710,Continue the Smurfs book.,1,2,2
+1067,16841,11580,Resume audiobook playback,1,2,2
+1068,16849,11538,Play biography of Jackie Kennedy,1,2,2
+1069,16856,11732,Re-start bill nye book.,1,2,2
+1070,16865,11528,Start playing again.,1,2,2
+1071,16867,11678,book xy play,1,2,2
+1072,16868,11558,Resume Animal Farm.,1,2,2
+1073,16871,11611,Please play recently paused audio.,1,2,2
+1074,16875,11574,start play johns audiobook,1,2,2
+1075,16878,11661,Play fault in our stars on Audible,1,2,2
+1076,16879,11701,play the twilight book,1,2,2
+1077,16881,11621,replay the God of small things,1,2,0
+1078,16883,11543,Start from last time on my audio book,1,2,2
+1079,16884,11718,play the book which i heard on some particular day.,1,2,2
+1080,16887,11685,"Ok Google, can you continue audiobook {title}",1,2,2
+1081,16888,11722,Read some more of the Daisy Goodwin book for me,2,2,2
+1082,16898,11663,Listen to the martian from downpour,2,0,0
+1083,16906,11752,Play me a random audio book that has to do with love.,1,2,2
+1084,16909,11644,Start audio book The Two Towers.,1,2,2
+1085,16912,12190,Start words with friends,2,1,1
+1086,16922,12243,start angry bird,1,2,0
+1087,16923,12224,Get the Duet game.,1,2,2
+1088,16930,12236,I want to play a game,1,2,2
+1089,16934,12303,"Please open snooker game, I would like to play with you",1,2,2
+1090,16935,12338,"Ok Google, lets start FMOD",2,2,0
+1091,16937,12324,game name,2,2,2
+1092,16942,12308,play this game with me,1,2,2
+1093,16948,12349,play pong against me,1,2,2
+1094,16949,12213,Open up angry birds,1,2,2
+1095,16950,12360,Play I spy with me.,1,2,2
+1096,16955,12209,Do you want to play solitaire,1,2,2
+1097,16957,12242,angry bird play,1,2,2
+1098,16962,12197,Play Candy Crush,1,2,2
+1099,16964,12281,Play my game,1,2,2
+1100,16965,12382,Open parcheese game for you and i.,1,2,2
+1101,16969,12207,Let's play a game together,1,2,2
+1102,16971,12248,search for the teams that are playing,1,2,2
+1103,16975,12282,Do you want to play?,1,2,2
+1104,16981,12285,let's play our favroite football match on tv,1,2,2
+1105,16983,12184,I would like to play tetris.,1,2,2
+1106,16985,12255,Find game,1,2,2
+1107,16988,12221,play golf,1,2,2
+1108,16997,12187,lets play,1,2,2
+1109,17006,12235,Play game with me,1,2,2
+1110,17008,12297,Play poker with me.,1,2,2
+1111,17017,1460,play ride music track,1,2,2
+1112,17019,779,Listen to x playlist next,2,2,2
+1113,17021,2328,Play Summer Lovin' next.,1,2,2
+1114,17024,5591,Pull up my party palylist.,1,1,2
+1115,17028,2376,favorite music,1,0,0
+1116,17031,1300,Please play Leviathan,1,2,2
+1117,17054,3177,Please play rap music.,1,2,2
+1118,17057,6121,Play from my play list,1,2,2
+1119,17062,6017,play edm music,1,2,2
+1120,17073,6217,Turn on Bjork.,1,1,0
+1121,17075,11651,Please play Jennifer Lopez album,1,2,2
+1122,17080,3250,PDA play my workout playlist.,1,2,2
+1123,17081,1157,Play my Morning playIst,0,2,2
+1124,17082,2994,I want to listen to Rock,2,2,2
+1125,17084,1321,Spotify,2,0,0
+1126,17087,6580,play item 1,1,2,2
+1127,17092,1489,Play music on shuffle,1,2,2
+1128,17102,2111,Get me some music,1,2,2
+1129,17103,3415,Find me a good pop song,1,0,2
+1130,17104,5014,"After this one, play song",1,2,2
+1131,17127,13448,go to the podcast and play the next episode in ____,1,2,2
+1132,17138,13757,Play next episode of this podcast,1,2,2
+1133,17147,13614,Play Duncan Trussel's latest podcast.,1,2,2
+1134,17153,13594,Please play the next episode in the podcast?,1,2,2
+1135,17155,13648,Can you pull up the Dave Ramsey podcast that aired on Monday.,1,2,2
+1136,17156,13688,resume series podcast,1,2,2
+1137,17162,13710,Please play NPR Podcast,1,2,2
+1138,17163,13465,go to the end of the podcast,1,2,2
+1139,17169,13596,Select the next episode in the podcast please.,1,2,2
+1140,17170,13777,next podcast play,1,2,2
+1141,17177,13612,start the next episode,1,2,2
+1142,17184,13435,Find an interesting podcast about last Pritzker Price winners,1,2,2
+1143,17187,13804,Play the most current episode of Levin,1,2,2
+1144,17188,13670,Start with the first episode of that podcast.,1,2,2
+1145,17192,13722,... podcast next episode,1,2,2
+1146,17194,13676,Go forward one episode.,1,2,2
+1147,17204,13462,what's the best podcast,1,2,2
+1148,17207,13449,start the next episode of the _____podcast,1,2,2
+1149,17208,13578,Can I see the next episode of the podcast?,1,2,2
+1150,17211,11320,Turn (program) on xmtune,1,1,0
+1151,17213,11235,tune me song in radio.,1,0,0
+1152,17221,11057,Play tunes,1,2,2
+1153,17223,11496,Start X on X radio.,1,2,2
+1154,17228,11056,Tune into this radio station,1,2,2
+1155,17230,11324,Switch on Radio mango,1,2,2
+1156,17234,11113,Please play (specific station) radio station,1,2,2
+1157,17236,10937,Play some radio.,1,2,2
+1158,17243,11406,Play for me the channel Star sports,2,2,2
+1159,17245,11167,Play Radio Disney,1,2,2
+1160,17250,11220,record the radio program,1,2,2
+1161,17253,11152,Play NCAA Match Kentucky vs Arizona live,1,2,2
+1162,17254,11275,play comedy from any fm channel,1,2,2
+1163,17262,11252,Play Hot 97 radio.,1,2,2
+1164,17263,11346,latest party events in city,1,2,2
+1165,17265,11316,Play radio on 5.30 on tere nagme show,1,2,2
+1166,17266,10929,Play BBC radio,1,2,2
+1167,17270,11411,Hello hello,0,1,1
+1168,17273,11156,Start playing NPR in the kitchen.,1,2,2
+1169,17286,10996,MERE FAVORITE RADIO STATION KO TUNE KARO.,1,2,2
+1170,17294,11144,Put the radio on and play radio 2,1,2,2
+1171,17300,11481,"Olly, launch Pandora and play 'thumbprint radio'",1,2,2
+1172,17310,11146,Please open my FM radio and play 98.7.,1,2,2
+1173,17324,16908,How many Philippine pesos to a dollar?,1,0,0
+1174,17329,17706,How much is a thousand [currency_source : dollars] in korean currency?,1,0,0
+1175,17334,17064,What is the current exchange rate between the dollar and the euro?,1,0,0
+1176,17337,18266,What is the exchange rate for 11 british pounds in US [currency_source : dollars]?,1,0,0
+1177,17348,18317,PDA please check on our exchange rates compared to others,1,0,0
+1178,17351,16609,How much is $5.00 in Philippine peso?,1,0,0
+1179,17356,17829,rate usd gbp,1,0,0
+1180,17359,16483,How many GBP can I get for one dollar?,1,0,0
+1181,17373,16787,what is the dollar exchange rte,1,0,0
+1182,17375,17055,I have ten U.S. [currency_source : dollars].  How many Canadian [currency_source : dollars] do I have.,1,0,0
+1183,17377,18251,In 7 days tell me the amount of yen I can get in [currency_source : dollars].,1,0,0
+1184,17382,17374,What's the dollar's exchange rate with the Euro?,1,0,0
+1185,17387,16229,What is the exchange rate between the US and Canada?,1,0,0
+1186,17390,17689,currently what is the exchange rate between dinar and pound,1,0,0
+1187,17392,17688,what is the exchange rate of euro and dollar,1,0,0
+1188,17399,17966,What is the exchange rate with in 1 british pound.,1,0,0
+1189,17400,17178,what is the price of the US dollar vs Canadian dollar,1,0,0
+1190,17401,17005,What is [number] euros in USD?,1,0,0
+1191,17412,18338,Define speaker.,1,1,0
+1192,17418,16226,What does (insert) mean ?,1,0,0
+1193,17420,15793,define,1,0,0
+1194,17421,16792,what does obligatory mean,2,0,0
+1195,17429,16543,Describe what a morel mushroom looks like.,1,0,0
+1196,17432,18239,give me the definition of arrow,1,0,0
+1197,17442,16382,what is a chair,2,0,0
+1198,17446,15694,meaning of word,1,0,0
+1199,17452,17963,exorbitant. Whats the meaning of this?,1,1,0
+1200,17474,15616,Define session,1,1,0
+1201,17475,16118,Give the Definition of Motivation,1,0,0
+1202,17477,15945,What does obsessed mean?,2,0,0
+1203,17478,16255,What is a torque wrench?,2,0,0
+1204,17482,17181,Please defined about printing works.,1,0,0
+1205,17484,16327,What is the defination of textual,1,0,0
+1206,17491,16742,what is a banana,2,0,0
+1207,17493,18319,PDA can you define this word,1,0,0
+1208,17495,16830,Describe Hell,1,0,0
+1209,17497,17156,what is definition of plot,1,0,0
+1210,17498,15977,what does 'pda' mean?,0,0,0
+1211,17499,17317,What is the definition of inchoate?,1,0,0
+1212,17504,15581,Do you know the definition of school,1,0,0
+1213,17507,18290,"olly, find a description about a samung tv",1,2,0
+1214,17508,17318,Find me the definition of  indefatigable,1,0,0
+1215,17513,16849,What is the location of Moldova?,1,0,0
+1216,17515,16862,What is a geographic fact in this region,2,0,0
+1217,17524,15745,How many people live in Los Angeles?,2,0,0
+1218,17527,16522,What is the westernmost city in the contiguous 48 states of the American mainland?,2,0,0
+1219,17530,16437,Wikipedia page about Sean Connery,2,1,0
+1220,17541,17862,where is mt everest located,1,0,0
+1221,17542,17207,Does Spain share its border with Morrocco?,2,0,0
+1222,17545,16855,Tell me about Amazon's history,2,2,0
+1223,17551,18153,"Alexa, which is the smallest island in the world?",2,0,0
+1224,17558,15815,Please give me information about Jhon Abraham Lincon,2,0,0
+1225,17567,18202,How many songs did Michael Jackson write?,1,0,0
+1226,17568,17198,show various plants in earth,1,2,0
+1227,17579,17491,Which is the best smartphone in 2017,2,1,0
+1228,17582,15604,Book me a flight to Mars next year,1,1,1
+1229,17583,17758,What area has at least a thousand miles of open desert?,2,0,0
+1230,17587,17911,TO COMPARE IN PEOPLE,0,1,1
+1231,17591,17299,tell me the profession of celebrity?,2,1,1
+1232,17600,15559,a,2,2,2
+1233,17610,16188,How old is Ellen?,2,0,0
+1234,17612,15425,Seven times seven,1,1,2
+1235,17619,15657,what is the answer to that question,1,0,0
+1236,17621,15576,What is the linear equation,1,0,0
+1237,17625,17165,What is 6-4?,1,0,0
+1238,17629,15932,what is 5 minus 1,1,0,0
+1239,17630,16009,Show me the answer for this problem 246 + 654,1,0,0
+1240,17635,16723,Tell me what 1 plus 1 is,1,0,0
+1241,17639,17095,How many cm make one foot,1,0,0
+1242,17641,16008,Resolve this 30 -12,1,1,1
+1243,17642,15865,Can you tell me what 25 percent of 2100 is?,1,0,0
+1244,17649,15574,ARE YOU SOLVE MY MATH ?,1,1,0
+1245,17651,15472,google,2,0,0
+1246,17657,15566,solution for 81 divided by 9,1,2,0
+1247,17671,15788,What's 13+14?,1,0,0
+1248,17675,16478,What is the answer to two by two?,1,0,0
+1249,17676,15474,browsing centres,1,2,0
+1250,17677,16139,how do I subtract 4 from 2,1,0,0
+1251,17678,15573,"PLZ, SOLVE THIS MATH.",1,1,1
+1252,17681,15568,howmany 3 are available in 27,2,2,2
+1253,17683,15495,4/2=2,2,0,0
+1254,17684,15550,What is 3 times 7,1,0,0
+1255,17690,15494,3*2=6,2,0,0
+1256,17692,15734,How do you solve 3-2?,1,2,0
+1257,17699,15912,#NAME?,2,0,0
+1258,17705,18084,Let's do math,1,0,0
+1259,17706,15787,Can you add up 13+5+9 for me?,1,0,0
+1260,17709,16267,What's the answer to 1 + 1?,1,0,0
+1261,17719,18028,what is the sensex and nifty points for today.,2,0,0
+1262,17720,18346,What is IBM stock at?,1,0,0
+1263,17730,18261,How's the stock for Exxon Mobil doing today?,1,0,0
+1264,17731,17036,How is [company's' stock doing today,1,0,0
+1265,17751,18121,Stock price for GMB.,1,0,0
+1266,17752,17654,stock prices of ...,1,0,0
+1267,17754,16845,stock price for apple,1,0,0
+1268,17755,16393,did apple stocks go up or down,1,0,0
+1269,17758,17927,Please find today's stock prices for Samsung company.,1,0,0
+1270,17759,16607,List me the stock of apple right now,1,0,0
+1271,17760,16801,Honda stock price?,1,0,0
+1272,17764,17376,is the stocks which i have invested are increasing,1,0,0
+1273,17765,18114,"PDA, What are the stock prices",1,0,0
+1274,17770,17540,let me know up and down in stock price of this company stock,1,0,0
+1275,17773,18052,Have Halifax shares gone up today?,1,0,0
+1276,17775,17063,ask my brokers,1,1,0
+1277,17779,3307,What's new with the stock market.,1,0,0
+1278,17780,18310,What is the stock for X company?,1,0,0
+1279,17783,17564,What is the highest Microsoft stock price today,1,0,0
+1280,17790,18244,how is the exchange rate for Microsoft?,1,0,0
+1281,17800,17790,How much would it cost to buy a share of Target?,2,0,0
+1282,17809,18345,How is IBM doing?,1,0,0
+1283,17814,14358,"Olly, when does Panama City Mall open?",1,2,2
+1284,17823,14178,Do they have any events going on downtown this weekend?,1,2,1
+1285,17826,13812,Tell me about things to do in London,1,2,2
+1286,17830,13912,Both young drivers and provisional drivers crash more often than other drivers because they have not yet had the wide range of experiences they need to drive safely by themselves. Research has shown that driving experience is a major factor in reducing road crashes and that the safest time for young drivers is when they are driving under supervision while learning.,0,1,1
+1287,17848,13985,swimming,2,2,2
+1288,17855,14106,What bands are playing in town this weekend?,1,2,2
+1289,17857,13880,"Cortana, search local events in zip code 12121.",1,2,2
+1290,17865,14311,Show todays events in NY,1,2,2
+1291,17871,14032,Any events this weekend in Pondichery?,1,2,1
+1292,17873,9145,show me upcoming events in chicago,1,2,1
+1293,17874,14133,"Olly, is there a sporting event tomorrow in Chicago?",1,2,2
+1294,17876,14289,What event do you suggest for me tonight?,1,2,1
+1295,17879,13878,"Cortana, what events are happening near me?",1,2,2
+1296,17883,14410,any good drama released recently in the cinema?,1,2,2
+1297,17889,13957,When is the yearly cultural event coming up?,1,1,1
+1298,17891,14246,are there any special events in my town,1,2,2
+1299,17892,14117,What to do today in Biloxi,1,2,2
+1300,17898,14355,What events near here are happening this week?,1,2,2
+1301,17901,9146,show me upcoming events in the quad cities,1,2,2
+1302,17903,14380,art exhibitions in california,1,2,2
+1303,17904,14309,Show current local events,1,2,2
+1304,17913,13989,Where is the nearest Olive Garden?,1,2,2
+1305,17914,14064,Where do people shop for clothes here?,1,2,0
+1306,17927,14100,show me some vegan restaurants close by,1,2,2
+1307,17929,13927,"Olly I'm looking for some dress shows, can you find clothing stores within 1 mile",1,2,2
+1308,17930,13862,list nearby shops,1,2,2
+1309,17931,14097,I want to take karate classes ?Where are localooking karate studios?,0,2,2
+1310,17933,14083,"Recommend Pub, eighth and monte diablo",1,2,2
+1311,17934,13923,tell me a nice Chinese Restuarant,1,2,2
+1312,17941,17067,Find me the smallest coffee shop in New Orleans.,1,2,0
+1313,17944,14073,Olly can you recommend good stores in this area?,1,2,2
+1314,17948,14084,"Best reviews, restaurant, south sacramento",1,2,2
+1315,17949,13925,Olly can you find a nice restaurant downtown?,1,2,2
+1316,17954,14093,Where can I buy sports equipment near me?,2,2,2
+1317,17956,13918,Where is the nearest smoke shop,1,2,2
+1318,17962,13831,is there any grocery nearby?,1,2,2
+1319,17964,14016,Olly what shops are within ten miles?,1,2,2
+1320,17975,14082,"Olly, name stores within 10 mile radius with music",1,2,2
+1321,17976,13883,Where is the best mechanic in Eagle Point?,2,2,1
+1322,17979,14057,Who sells the cheapest netbooks in South Austin?,1,2,0
+1323,17982,14299,How many grocery stores are located in my neighborhood?,1,2,2
+1324,17987,14217,What restaurants around here have good reviews?,1,2,2
+1325,17993,14236,I need a good shop,1,2,2
+1326,17996,14192,Please look up local restaurants that are open now.,1,2,2
+1327,17997,14222,"Olly, what are some highly rated restaurants in this area?",1,2,2
+1328,18012,13893,can you recommend some movies to watch in theater near me,1,2,2
+1329,18022,18314,What movie do you recommend tonight?,1,2,2
+1330,18026,16052,2017 movies,1,2,2
+1331,18040,14029,SECURITY AWARENESS,0,0,0
+1332,18043,7489,What is a good movie to see right now,1,2,2
+1333,18044,14135,What are the current movies playing in my area?,1,2,2
+1334,18045,14203,"Olly, what should I watch today?",1,2,2
+1335,18046,14126,What is the highest rated movie now out?,1,2,2
+1336,18049,14188,What movies are out this week?,1,2,2
+1337,18057,14034,Find an Oscar nominee movie,1,2,2
+1338,18061,16163,What movie should I go see?,1,2,2
+1339,18062,7655,what are the new movies releasing,1,2,2
+1340,18063,14049,Training Day,1,1,1
+1341,18067,13844,Recommend a movie with Justin Bieber.,1,2,2
+1342,18070,13894,tell me the movie with best IMDB ratings going on in theatres near me,1,2,2
+1343,18071,13891,what time will a movie be shown tomorrow,1,2,2
+1344,18076,13834,what new movies are played in cinemas this week?,1,2,2
+1345,18081,14028,LEARNING GAMES,1,2,2
+1346,18082,14287,What time does *** start?,1,0,0
+1347,18088,14339,Is Logan a good movie to watch?,1,2,2
+1348,18091,14401,ocean 11,2,0,0
+1349,18093,7700,Top 10 movies,1,2,2
+1350,18097,14113,What movies are playing at theatres near me,1,2,2
+1351,18099,13963,Show me theatre where pirates of Caribbean is playing,1,2,2
+1352,18100,14001,Olly is Swat a good movie,1,2,2
+1353,18102,14165,what's worth watching?,1,2,2
+1354,18104,14357,"Olly, what movies are playing at Carmike Cinemas?",1,2,2
+1355,18107,18189,Can you tell me what movies are playing at the movies tonight?,1,2,2
+1356,18112,18555,New tweet:,1,1,1
+1357,18114,19087,Make a post.,0,1,1
+1358,18116,18494,PDA post a status using the latest notes I made in my notepad.,1,1,1
+1359,18122,19030,Tell consumer service in a tweet that if they don't improve I will take my business elsewhere.,1,1,1
+1360,18129,18777,Please tweet @Nike my pants ripped after the first wash #nothappy,0,1,1
+1361,18132,19025,could please tweet that the kinley water bottle was charged for more than maximum retail price at the movies.,1,1,1
+1362,18141,18601,Write a message to Payoneer and tell them that my card isn't working.,1,0,0
+1363,18146,18783,Pull up a complaint for for AOL.,1,1,1
+1364,18153,18688,I want to post on LinkedIn.,0,1,1
+1365,18155,19028,Tweet consumer service that I am very disappointed with my recent interaction.,0,1,1
+1366,18159,18735,send complain through tweeter consumer service,1,1,1
+1367,18166,18922,write my complaint and tweet it to customer service,1,1,1
+1368,18168,19062,tweet bad day at Starbucks,1,1,1
+1369,18174,18699,Look up contact info for the complaint line of Comcast.,1,1,0
+1370,18185,15497,Send a message on Facebook to pending friend requests that my friend list is full and I will be creating a new profile soon.,1,1,1
+1371,18186,19065,post swagging in LA on my facebook timeline,1,1,1
+1372,18187,18764,Post to Facebook: I'm home,0,1,1
+1373,18188,18653,Please make a complait to Levis,2,1,1
+1374,18192,18889,compaint to dept. for food quality,1,1,1
+1375,18193,18648,Complain to the restaurant about the food I was served.,1,2,1
+1376,18196,18980,PDA name: post this on my facebook,0,1,1
+1377,18200,18707,Bring up Twitter to Target Customer Service.,0,1,1
+1378,18201,18938,query,2,0,0
+1379,18209,19061,tweet a discusted face about McDonalds,0,1,1
+1380,18212,18592,Who is doing FaceBook live right now?,0,1,1
+1381,18216,18388,Get me updates from Kenny's Facebook from the weekend,1,1,1
+1382,18217,19075,"Olly, is anything trending on social media today?",1,1,1
+1383,18222,18546,Tell me what's going on with Facebook.,1,1,1
+1384,18223,18585,Show me my husbands Facebook posts today.,1,1,1
+1385,18225,18586,Give me some funny Facebook posts.,1,1,1
+1386,18230,18468,"Hi there, tell me latest updates of Times of India page in facebook.",1,1,1
+1387,18239,18590,Has Wendy posted on FaceBook?,0,1,1
+1388,18240,18400,What are the latest tweets from the new york times,1,1,1
+1389,18242,18412,check my facebook notification,1,1,1
+1390,18254,18524,Has Derek logged into Facebook today?,0,1,1
+1391,18255,18469,Please Alexa tell me latest video going viral on twitter for topic Narendra Modi,1,1,1
+1392,18258,18635,Are there any new Snapchats?,1,1,1
+1393,18266,18373,May I know what is trending in social media?,1,1,1
+1394,18270,18467,Make the list of person of the year,1,2,2
+1395,18282,18963,social info,1,1,1
+1396,18284,18569,What was the latest post?,0,1,0
+1397,18287,18880,"Hi, What is happening in Twitter today.",0,1,1
+1398,18290,18401,How many likes does my last instagram photo have,0,1,1
+1399,18291,18370,Who recently posted on social media?,1,1,1
+1400,18292,18695,Did Tracy update her Facebook status today?,1,1,1
+1401,18295,18424,"PDA, tell me whats on the web.",2,1,0
+1402,18297,18531,what is the latest from my feed?,1,1,0
+1403,18303,18481,Has Sarah posted anything today?,0,1,1
+1404,18306,18497,Give me details of my twitter handle profile including the total number of followers.,1,1,1
+1405,18308,18515,Myspace,2,1,1
+1406,18311,2018,"Hey, call the nearest Chinese restaurant for a takeaway",1,2,2
+1407,18312,5089,Order a double bacon cheeseburger with bacon an white american cheese.,1,2,2
+1408,18315,3374,Order me some chipotle,1,2,2
+1409,18336,6937,any low priced delicacies.,1,2,2
+1410,18340,4246,What takeout places are near me?,1,2,2
+1411,18344,6208,Order a large plain pizza from Mimo's for me.,1,2,2
+1412,18345,115,Order a takeaway,1,2,2
+1413,18353,880,order takeout pizza from domino's for 7 p.m.,1,2,2
+1414,18355,1523,Order some takeaway food,1,2,2
+1415,18357,2512,Order the best priced General Tofu in Nyack,1,2,2
+1416,18361,882,schedule pizza takeout for 7 p.m.,1,2,2
+1417,18363,2001,I want to eat some spicy thing,1,2,2
+1418,18366,6967,Have Pho #1 send 3 egg rolls.,2,2,0
+1419,18370,3233,"Hey PDA, order me some take out from Jason's Deli",1,2,2
+1420,18371,2704,"From Wangs Kitchen restaurant, home delivery for a chicken manchow soup.",1,2,2
+1421,18377,6936,any good fast food items.,1,2,2
+1422,18379,1880,Checkout top restaurant near me and order Shahi panner.,1,2,2
+1423,18380,4254,order me chinese food,1,2,2
+1424,18382,2914,order mcdonalds,1,2,2
+1425,18389,1310,Order me a large ham and olive pizza from Dominos.,1,2,2
+1426,18390,4909,please order me lo mein and egg rolls from panda express now,1,2,2
+1427,18391,5127,I want to order some takeout food,1,2,2
+1428,18410,6943,"I want to eat something,will you order food for me?",1,2,2
+1429,18413,4045,Can I carry out with this restaurant?,1,2,2
+1430,18414,2686,How is my order,1,2,2
+1431,18417,3798,Does John's pizza have takeaway,1,2,2
+1432,18418,2210,does dominos has a delivery option.,1,2,2
+1433,18425,7076,how many minutes do I need to wait to pick up my food from china on the go?,1,2,2
+1434,18431,4044,Does this restaurant have takeaway?,1,2,2
+1435,18437,2687,What is happening to my order,2,2,2
+1436,18438,4708,When will my Chinese food be delivered?,1,2,2
+1437,18439,3068,How much longer on my order?,1,2,2
+1438,18440,2087,Restaurant delivery update,1,2,2
+1439,18442,5450,Does restaurant have takeaway?,1,2,2
+1440,18443,2977,last take away order,1,2,2
+1441,18444,3747,When did I place my order and what was the projected time it would take?,1,2,2
+1442,18445,4607,Please check if paradise does takeaway,1,2,2
+1443,18448,6995,Is my order at domino's ready?,1,2,2
+1444,18449,837,could you please recommend a Mexican restaurant for take out?,1,2,2
+1445,18451,6191,Will the restaurant deliver the order ?,1,2,2
+1446,18453,1018,Can I get takeout from PF Changs?,1,2,2
+1447,18459,326,is there a takeout menu at the restaurant,1,2,2
+1448,18461,2891,What happened to my Pizza order? it has been an hour since I ordered,1,2,2
+1449,18464,39,"olly, list most rated deliveroo options for chinese food",1,2,2
+1450,18465,3328,"Olly, does Chinese deliver?",1,2,0
+1451,18475,3616,Does the nearby dominos have delivery,1,2,2
+1452,18478,4400,Where is an Olive Garden that does takeaway?,1,2,2
+1453,18479,4505,Please find out of Charley's Steakhouse delivers.,1,2,2
+1454,18488,3069,When can I pick up my order?,1,2,2
+1455,18494,4992,Does Fongs do carry out?,2,2,1
+1456,18500,6750,do you serve for home delivery?,1,2,2
+1457,18501,6083,"Hi There, Do you offer home delivery for orders?",1,2,2
+1458,18503,2313,Does Peking Garden take orders over the phone?,1,2,2
+1459,18507,324,find out if the restaurant does takeaway orders,1,2,2
+1460,18514,14632,Show me the path of nearest railway station.,1,0,0
+1461,18516,14607,What time is the train to San francisco due?,1,1,1
+1462,18520,14950,go to map,1,2,2
+1463,18526,15273,"PDA, What's the directions to the nearest pizza hut?",1,1,1
+1464,18532,15006,can you give me train times for ann arbor?,1,1,1
+1465,18533,14571,What time are the trains going to Chennai leaving?,1,1,1
+1466,18536,14595,set direction to central market,1,1,0
+1467,18537,14718,What time can I catch the train to DC and arrive by 9 AM?,0,1,1
+1468,18540,14954,What time does the first metrolink arrive in the morning?,0,1,1
+1469,18541,14949,go to agha station,1,1,1
+1470,18549,14768,Next train to Orlando,0,1,1
+1471,18555,14999,how long is it from dalls to san antonio by train?,0,1,1
+1472,18559,14587,manoeuvres,2,1,1
+1473,18560,14646,What is time of Indianapolis Express.,1,0,0
+1474,18562,15051,how do i get from my house to the target along i-40,0,1,1
+1475,18564,14782,Train times at Gary Station going toward Fort Wayne today,1,1,1
+1476,18573,14797,What trips are available from NYC to Poughkeepsie?,1,1,1
+1477,18582,14900,what are the train times to Chicago for today,1,1,1
+1478,18586,14739,Tell me Today's direction.,0,1,1
+1479,18592,15391,please let me know the time of train X,1,1,1
+1480,18595,15119,navigate to a place,2,2,2
+1481,18602,14770,When is the last train today?,1,1,1
+1482,18606,15219,Tell me the direction to Miami from Chicago.,2,1,0
+1483,18608,14429,whens the next train to cornwall.,0,1,1
+1484,18613,14784,I need a taxi ride now,1,1,1
+1485,18624,15344,uber,1,1,1
+1486,18627,15184,Order me n Uber ride please.,1,1,1
+1487,18629,14559,Book a taxi to go to the movies at 1,1,1,1
+1488,18634,15268,Have a taxi pick me up.,1,1,1
+1489,18639,14917,find a ride to the bar,1,1,1
+1490,18641,14656,Reserve a taxi,1,1,1
+1491,18644,14858,Can you call an Uber for me?,1,1,1
+1492,18650,15371,I need a taxi for [date : tomorrow] at 7pm to the arena.,1,1,1
+1493,18655,15394,please book the next taxi,1,1,1
+1494,18659,14439,"I am going to Chinatown in half an hour, book an Uber for me.",1,1,1
+1495,18667,14544,Look for a taxi to go home,1,1,1
+1496,18670,15355,Book a taxi for pickup at my current location in one hour's time,1,1,1
+1497,18672,14859,Call a car for me,1,1,1
+1498,18676,14540,I am in need of a taxi right now.,1,1,1
+1499,18679,14922,Could you please book me a taxi going to 'location'?,1,1,1
+1500,18683,15121,book an Uber for 1 hour from now,1,1,1
+1501,18685,15289,book Ola cab for now,1,1,1
+1502,18691,15353,Book a taxi at my home address for right now,1,1,1
+1503,18697,14845,find a taxi for me,1,1,1
+1504,18699,14898,get me the number for local taxi service,1,1,1
+1505,18704,14665,What is the number of the closest taxi company?,1,1,0
+1506,18706,15409,"Olly, book me an uber, please.",1,1,1
+1507,18711,14461,Can you book a train ticket?,1,1,1
+1508,18721,14503,Find me a train ticket to...,1,1,1
+1509,18722,14689,book a train ticket with a berth seat to Lucknow for next week,1,1,1
+1510,18723,15129,get train ticket,1,1,1
+1511,18724,14677,"Book 3 round trip train tickets for Sunday at 7pm, return ticket of next week Sunday at 8am",0,1,1
+1512,18727,15347,Book for me a train ticket to New York,1,1,1
+1513,18731,14723,Book a train ticket from Washington DC to Savannah Georgia,1,1,1
+1514,18734,14465,Book my Chair class AC train ticket from Manhattan to New York.,1,1,1
+1515,18736,14422,I need to go to Dundee at 5am on Sunday by train,0,1,1
+1516,18741,14570,I want to know the timings of trains going to Delhi.,1,1,1
+1517,18752,14604,Please book a train ticket from London to Manchester,1,1,1
+1518,18753,15297,"Alexa, get me a train ticket to Chicago today.",1,1,1
+1519,18755,14961,can you book a train ticket to Berkeley for me,1,1,1
+1520,18757,15071,Book me a train ticket at earliest time tomorrow.,1,1,1
+1521,18765,14812,Book me a train ticket for tomorrow,1,1,1
+1522,18768,15390,Secure train passage for me on July 3.,0,1,1
+1523,18771,14545,google train tickets to washington dc,1,1,1
+1524,18772,15178,"Buy a train ticket for one week from now from New York, New York to Las Vegas Nevada",1,1,1
+1525,18775,14698,Could you make a train ticket for m,1,1,1
+1526,18778,15144,find me a train ticket to boston,1,1,1
+1527,18779,14991,Get me a train ticket from mumbai to goa,1,1,1
+1528,18780,15128,find train ticket,1,1,1
+1529,18783,15182,i want the cheapest train ticket to new york,1,1,1
+1530,18784,15174,Please book a train ticket for me.,1,1,1
+1531,18788,14424,book me a ticket for a train to new york from boston in two days from now,1,1,1
+1532,18799,15375,Book a ticket for the Ethan Allen Express to Vermont.,1,1,1
+1533,18807,14990,Book a train ticket from mumbai to goa,1,1,1
+1534,18813,15113,How long should the drive to work take?,2,1,1
+1535,18818,14491,Latest news on traffic at my current location.,0,0,0
+1536,18824,14701,May I know the traffic situation,1,1,1
+1537,18827,14883,"Olly, what is the fastest route to town?",1,1,1
+1538,18829,14767,Give me the idea of current traffic condition,1,1,1
+1539,18830,15235,Are there any accidents on my way to work?,0,1,1
+1540,18834,14437,How is my commute?,0,1,1
+1541,18835,15227,What is the traffic now?,1,1,1
+1542,18838,15080,How long will it take to get home?,0,1,1
+1543,18839,14471,how bad is the traffic near the airport?,1,1,1
+1544,18846,14486,Are there any accidents on the 405?,0,1,1
+1545,18849,14576,tell me current situation of traffic near central park road.,1,1,1
+1546,18854,14645,How long will it take me to get to Park Avenue considering current traffic?,1,1,1
+1547,18855,14866,Alexa is traffic heavy on route 80 today?,1,1,1
+1548,18857,15365,What amount of traffic in this road?,1,1,1
+1549,18858,14572,how is the traffic in MG road?,1,1,1
+1550,18862,15229,Can you tell me about the traffic?,0,1,1
+1551,18863,15367,Which route has less traffic today?,1,1,1
+1552,18870,14436,What is traffic to work now?,1,1,1
+1553,18873,15317,Please Let me know about current traffic in Carmen Drive,1,1,1
+1554,18883,14651,Give information about the traffic near my location please.,1,1,1
+1555,18893,14517,are there any accidents on Harvard?,2,1,1
+1556,18897,14674,In whole india traffic level is very high,1,1,1
+1557,18907,14955,how is the traffic now,1,1,1
+1558,18910,7812,how is the traffic right now,1,1,1
+1559,18918,2125,Give me weather condition of Manhattan,1,0,0
+1560,18924,6991,Is it going to be windy today.,1,0,0
+1561,18935,4381,What is the temperature?,1,0,0
+1562,18947,5720,Is it rainy in my area?,2,0,0
+1563,18951,3913,Will it be windy tonight?,1,0,0
+1564,18957,7206,WIll I need an umbrella today?,1,0,0
+1565,18966,1675,Will it rain this week?,1,0,0
+1566,18971,6266,Should I bring gloves with me tonight?,1,0,0
+1567,18973,2577,is it raining right now,1,0,0
+1568,18976,5237,Is it going to rain today in Columbus?,1,0,0
+1569,18977,6225,will it be cold enough for mittens later tonight?,1,0,0
+1570,18983,4167,Can you give me a weather report.,1,0,0
+1571,18991,2676,Is it going to rain in Manhattan today?,1,0,0
+1572,18997,4503,Please tell me about today's weather.,1,0,0
+1573,18998,4644,Please check the weather in Kansas,1,0,0
+1574,19003,728,what is the weather report,1,0,0

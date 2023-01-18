@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# train all rasa models
+
+splits=("0" "1" "2" "3" "4" "rasa")
+for value in ${splits[@]};
+do
+    echo "------------------------------"
+    echo "train $value"
+    echo "------------------------------"
+    cd /netscratch/nehring/projects/modular-chatbot-dataset/frankenbot/research/testbed/code/lrec2022/tempfolder/$value
+    CUDA_VISIBLE_DEVICES=0 rasa train nlu --config ../../../config.yml
+done

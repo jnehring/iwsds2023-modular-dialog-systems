@@ -1,0 +1,4 @@
+adapter-transformers==2.3.0
+datasets==1.18.3
+seaborn
+
