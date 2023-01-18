@@ -94,21 +94,3 @@ to run it:
 ```
 python -m merge_all_datasets
 ```
-
-## Models and Experiments: Script Overview (Need an update)
-
-### LREC_2022_split_0.ipynb
-Read the modular_dialogsystem_dataset.csv file. Then perform all the three experiments and calculate final results for split 0.
-
-### LREC_2022_split_1.ipynb
-Read the modular_dialogsystem_dataset.csv file. Then perform all the three experiments and calculate final results for split 1.
-
-### LREC_2022_split_2.ipynb
-Read the modular_dialogsystem_dataset.csv file. Then perform all the three experiments and calculate final results for split 2.
-
-### LREC_2022_split_3.ipynb
-Read the modular_dialogsystem_dataset.csv file. Then perform all the three experiments and calculate final results for split 3.
-
-### LREC_2022_split_4.ipynb
-Read the modular_dialogsystem_dataset.csv file. Then perform all the three experiments and calculate final results for split 4.
-
